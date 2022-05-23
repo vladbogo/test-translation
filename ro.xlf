@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
-  <file original="err-txt" datatype="txt" target-language="ro">
+  <file original="err-txt" datatype="txt" target-language="ro" source-language="en">
     <body>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="yes"><source>ER_CANT_CREATE_FILE</source>
+        <target state="final">Nu se poate crea tabelul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>ER_YES</source>
+        <target state="translated">Da</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ERR_NO" approved="yes"><source>ERR_NO</source>
+        <target state="final">Nu</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
