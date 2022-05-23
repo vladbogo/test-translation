@@ -5,8 +5,8 @@
       <trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="yes"><source>ER_CANT_CREATE_FILE</source>
         <target state="final">Nu se poate crea tabelul</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>ER_YES</source>
-        <target state="translated">Da</target>
+      <trans-unit xml:space="preserve" id="ER_YES" approved="yes"><source>ER_YES</source>
+        <target state="final">Da</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ERR_NO" approved="yes"><source>ERR_NO</source>
         <target state="final">Nu</target>
