@@ -19,6 +19,9 @@
       <trans-unit id="9" resname="love">
         <source xml:lang="en">Made with ❤</source>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="no"><source>ER_CANT_CREATE_FILE</source>
+        <target state="translated">Can't create table</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
