@@ -11,6 +11,12 @@
       <trans-unit xml:space="preserve" id="ERR_NO" approved="yes"><source>ERR_NO</source>
         <target state="final">Nu</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="ERR_ERR" approved="no"><source>Error</source>
+        <target state="translated">Eroare</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="yes"><source>Can't create table</source>
+        <target state="final">Nu se poate crea tabelul</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
