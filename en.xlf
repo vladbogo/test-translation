@@ -11,11 +11,11 @@
       <trans-unit xml:space="preserve" id="ERR_NO" approved="yes"><source>No</source>
         <target state="final">No</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="no"><source>ER_CANT_CREATE_TABLE</source>
-        <target state="translated">Can't create table</target>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="yes"><source>Can't create table</source>
+        <target state="final">Can't create table</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="ERR_ERR" approved="no"><source>ERR_ERR</source>
-        <target state="translated">Error</target>
+      <trans-unit xml:space="preserve" id="ERR_ERR" approved="yes"><source>Error</source>
+        <target state="final">Error</target>
       </trans-unit>
     </body>
   </file>
