@@ -2,8 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
   <file datatype="txt" target-language="fr" source-language="en">
     <body>
-      <trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>Yes</source>
-        <target state="translated">Oui</target>
+      <trans-unit xml:space="preserve" id="ER_YES" approved="yes"><source>Yes</source>
+        <target state="final">Oui</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ERR_NO" approved="no"><source>No</source>
+        <target state="translated">Non</target>
       </trans-unit>
     </body>
   </file>
