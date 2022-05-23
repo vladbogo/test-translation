@@ -14,6 +14,9 @@
       <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="no"><source>ER_CANT_CREATE_TABLE</source>
         <target state="translated">Can't create table</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="ERR_ERR" approved="no"><source>ERR_ERR</source>
+        <target state="translated">Error</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
