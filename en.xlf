@@ -11,6 +11,9 @@
       <trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>ER_YES</source>
         <target state="translated">Yes</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" id="ERR_NO" approved="no"><source>ERR_NO</source>
+        <target state="translated">No</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
