@@ -2,11 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
   <file datatype="txt" target-language="rum" source-language="eng">
     <body>
-      <trans-unit xml:space="preserve" id="ER_NO" approved="yes"><source>"NO"</source>
-        <target state="final">"NU"</target>
+      <trans-unit xml:space="preserve" id="ER_NO" approved="no"><source>"NO"</source>
+        <target state="translated">"NU---"</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="ER_YES" approved="yes"><source>"YES"</source>
-        <target state="final">"DA"</target>
+      <trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>"YES"</source>
+        <target state="translated">"DA?"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="yes"><source>"Can't create file '%-.200s' (errno: %M)"</source>
         <target state="final">"Nu pot sa creez fisierul '%-.200s' (Eroare: %M)"</target>
