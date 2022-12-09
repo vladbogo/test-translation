@@ -12,7 +12,7 @@
         <target state="final">"Nu pot sa creez fisierul '%-.200s' (Eroare: %M)"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="no"><source>"Can't create table %`s.%`s (errno: %M)"</source>
-        <target state="needs-translation">"Nu pot sa creez tabla %`s.%`s (Eroare: %M)"</target>
+        <target state="translated">"Nu pot sa creez tabelul %`s.%`s (Eroare: %M)"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_CREATE_DB" approved="yes"><source>"Can't create database '%-.192s' (errno: %M)"</source>
         <target state="final">"Nu pot sa creez baza de date '%-.192s' (Eroare: %M)"</target>
@@ -21,10 +21,10 @@
         <target state="final">"Nu pot sa creez baza de date '%-.192s'; baza de date exista deja"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_DB_DROP_EXISTS" approved="no"><source>"Can't drop database '%-.192s'; database doesn't exist"</source>
-        <target state="needs-translation">"Nu pot sa drop baza de date '%-.192s'; baza da date este inexistenta"</target>
+        <target state="translated">"Nu pot sa sterg baza de date '%-.192s'; baza da date este inexistenta"</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="ER_DB_DROP_DELETE" approved="no"><source>"Error dropping database (can't delete '%-.192s', errno: %M)"</source>
-        <target state="needs-translation">"Eroare dropuind baza de date (nu pot sa sterg '%-.192s', Eroare: %M)"</target>
+      <trans-unit xml:space="preserve" id="ER_DB_DROP_DELETE" approved="yes"><source>"Error dropping database (can't delete '%-.192s', errno: %M)"</source>
+        <target state="final">"Eroare dropuind baza de date (nu pot sa sterg '%-.192s', Eroare: %M)"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_DB_DROP_RMDIR" approved="no"><source>"Error dropping database (can't rmdir '%-.192s', errno: %M)"</source>
         <target state="final">"Eroare dropuind baza de date (nu pot sa rmdir '%-.192s', Eroare: %M)"</target>
@@ -33,7 +33,7 @@
         <target state="final">"Eroare incercind sa delete '%-.192s' (Eroare: %M)"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_FIND_SYSTEM_REC" approved="no"><source>"Can't read record in system table"</source>
-        <target state="final">"Nu pot sa citesc cimpurile in tabla de system (system table)"</target>
+        <target state="translated">"Nu pot sa citesc cimpurile in tabla de sistem (system table)"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_GET_STAT" approved="no"><source>"Can't get status of '%-.200s' (errno: %M)"</source>
         <target state="final">"Nu pot sa obtin statusul lui '%-.200s' (Eroare: %M)"</target>
@@ -117,7 +117,7 @@
         <target state="final">"Prea multe conectiuni"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_OUT_OF_RESOURCES" approved="no"><source>"Out of memory."</source>
-        <target state="final">"Out of memory."</target>
+        <target state="translated">"Lipsa memorie."</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_BAD_HOST_ERROR 08S01" approved="no"><source>"Can't get hostname for your address"</source>
         <target state="final">"Nu pot sa obtin hostname-ul adresei tale"</target>
@@ -342,7 +342,7 @@
         <target state="final">"Stack-ul thread-ului a fost depasit (prea mic):  Folositi: %ld intr-un stack de %ld.  Folositi 'mariadbd --thread_stack=#' ca sa specifici un stack mai mare"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_WRONG_OUTER_JOIN 42000" approved="no"><source>"Cross dependency found in OUTER JOIN; examine your ON conditions"</source>
-        <target state="final">"Dependinta incrucisata (cross dependency) gasita in OUTER JOIN.  Examinati conditiile ON"</target>
+        <target state="translated">"Dependinta incrucisata (cross dependency) gasita in OUTER JOIN. Examinati conditiile ON"</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="ER_CANT_FIND_UDF" approved="no"><source>"Can't load function '%-.192s'"</source>
         <target state="final">"Nu pot incarca functia '%-.192s'"</target>
