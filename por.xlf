@@ -1,1 +1,865 @@
-<?xml version="1.0" encoding="utf-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd"><file datatype="txt" target-language="por" source-language="eng"><body><trans-unit xml:space="preserve" id="ER_NO" approved="no"><source>&quot;NO&quot;</source><target state="final">&quot;NÃO&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_YES" approved="no"><source>&quot;YES&quot;</source><target state="final">&quot;SIM&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="no"><source>&quot;Can't create file '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Não pode criar o arquivo '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="no"><source>&quot;Can't create table %`s.%`s (errno: %M)&quot;</source><target state="final">&quot;Não pode criar a tabela %`s.%`s (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_CREATE_DB" approved="no"><source>&quot;Can't create database '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Não pode criar o banco de dados '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DB_CREATE_EXISTS" approved="no"><source>&quot;Can't create database '%-.192s'; database exists&quot;</source><target state="final">&quot;Não pode criar o banco de dados '%-.192s'; este banco de dados já existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DB_DROP_EXISTS" approved="no"><source>&quot;Can't drop database '%-.192s'; database doesn't exist&quot;</source><target state="final">&quot;Não pode eliminar o banco de dados '%-.192s'; este banco de dados não existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DB_DROP_DELETE" approved="no"><source>&quot;Error dropping database (can't delete '%-.192s', errno: %M)&quot;</source><target state="final">&quot;Erro ao eliminar banco de dados (não pode eliminar '%-.192s' - erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DB_DROP_RMDIR" approved="no"><source>&quot;Error dropping database (can't rmdir '%-.192s', errno: %M)&quot;</source><target state="final">&quot;Erro ao eliminar banco de dados (não pode remover diretório '%-.192s' - erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_DELETE_FILE" approved="no"><source>&quot;Error on delete of '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Erro na remoção de '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_FIND_SYSTEM_REC" approved="no"><source>&quot;Can't read record in system table&quot;</source><target state="final">&quot;Não pode ler um registro numa tabela do sistema&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_GET_STAT" approved="no"><source>&quot;Can't get status of '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Não pode obter o status de '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_GET_WD" approved="no"><source>&quot;Can't get working directory (errno: %M)&quot;</source><target state="final">&quot;Não pode obter o diretório corrente (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_LOCK" approved="no"><source>&quot;Can't lock file (errno: %M)&quot;</source><target state="final">&quot;Não pode travar o arquivo (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_OPEN_FILE" approved="no"><source>&quot;Can't open file: '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Não pode abrir o arquivo '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FILE_NOT_FOUND" approved="no"><source>&quot;Can't find file: '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Não pode encontrar o arquivo '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_READ_DIR" approved="no"><source>&quot;Can't read dir of '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Não pode ler o diretório de '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_SET_WD" approved="no"><source>&quot;Can't change dir to '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Não pode mudar para o diretório '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CHECKREAD" approved="no"><source>&quot;Record has changed since last read in table '%-.192s'&quot;</source><target state="final">&quot;Registro alterado desde a última leitura da tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DISK_FULL" approved="no"><source>&quot;Disk full (%s); waiting for someone to free some space... (errno: %M)&quot;</source><target state="final">&quot;Disco cheio (%s). Aguardando alguém liberar algum espaço... (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_KEY 23000" approved="no"><source>&quot;Can't write; duplicate key in table '%-.192s'&quot;</source><target state="final">&quot;Não pode gravar. Chave duplicada na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_ON_CLOSE" approved="no"><source>&quot;Error on close of '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Erro ao fechar '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_ON_READ" approved="no"><source>&quot;Error reading file '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Erro ao ler arquivo '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_ON_RENAME" approved="no"><source>&quot;Error on rename of '%-.210s' to '%-.210s' (errno: %M)&quot;</source><target state="final">&quot;Erro ao renomear '%-.210s' para '%-.210s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_ON_WRITE" approved="no"><source>&quot;Error writing file '%-.200s' (errno: %M)&quot;</source><target state="final">&quot;Erro ao gravar arquivo '%-.200s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FILE_USED" approved="no"><source>&quot;'%-.192s' is locked against change&quot;</source><target state="final">&quot;'%-.192s' está com travamento contra alterações&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FILSORT_ABORT" approved="no"><source>&quot;Sort aborted&quot;</source><target state="final">&quot;Ordenação abortada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FORM_NOT_FOUND" approved="no"><source>&quot;View '%-.192s' doesn't exist for '%-.192s'&quot;</source><target state="final">&quot;Visão '%-.192s' não existe para '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_GET_ERRNO" approved="no"><source>&quot;Got error %M from storage engine %s&quot;</source><target state="final">&quot;Obteve erro %M no manipulador de tabelas %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_KEY_NOT_FOUND" approved="no"><source>&quot;Can't find record in '%-.192s'&quot;</source><target state="final">&quot;Não pode encontrar registro em '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NOT_FORM_FILE" approved="no"><source>&quot;Incorrect information in file: '%-.200s'&quot;</source><target state="final">&quot;Informação incorreta no arquivo '%-.200s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NOT_KEYFILE" approved="no"><source>&quot;Index for table '%-.200s' is corrupt; try to repair it&quot;</source><target state="final">&quot;Arquivo de índice incorreto para tabela '%-.200s'; tente repará-lo&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OLD_KEYFILE" approved="no"><source>&quot;Old key file for table '%-.192s'; repair it!&quot;</source><target state="final">&quot;Arquivo de índice desatualizado para tabela '%-.192s'; repare-o!&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OPEN_AS_READONLY" approved="no"><source>&quot;Table '%-.192s' is read only&quot;</source><target state="final">&quot;Tabela '%-.192s' é somente para leitura&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OUTOFMEMORY HY001 S1001" approved="no"><source>&quot;Out of memory; restart server and try again (needed %d bytes)&quot;</source><target state="final">&quot;Sem memória. Reinicie o programa e tente novamente (necessita de %d bytes)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OUT_OF_SORTMEMORY HY001 S1001" approved="no"><source>&quot;Out of sort memory, consider increasing server sort buffer size&quot;</source><target state="final">&quot;Não há memória suficiente para ordenação. Considere aumentar o tamanho do retentor (buffer) de ordenação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNEXPECTED_EOF" approved="no"><source>&quot;Unexpected EOF found when reading file '%-.192s' (errno: %M)&quot;</source><target state="final">&quot;Encontrado fim de arquivo inesperado ao ler arquivo '%-.192s' (erro no. %M)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CON_COUNT_ERROR 08004" approved="no"><source>&quot;Too many connections&quot;</source><target state="final">&quot;Excesso de conexões&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OUT_OF_RESOURCES" approved="no"><source>&quot;Out of memory.&quot;</source><target state="final">&quot;Sem memória.&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_HOST_ERROR 08S01" approved="no"><source>&quot;Can't get hostname for your address&quot;</source><target state="final">&quot;Não pode obter nome do 'host' para seu endereço&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_HANDSHAKE_ERROR 08S01" approved="no"><source>&quot;Bad handshake&quot;</source><target state="final">&quot;Negociação de acesso falhou&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DBACCESS_DENIED_ERROR 42000" approved="no"><source>&quot;Access denied for user '%s'@'%s' to database '%-.192s'&quot;</source><target state="final">&quot;Acesso negado para o usuário '%s'@'%s' ao banco de dados '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ACCESS_DENIED_ERROR 28000" approved="no"><source>&quot;Access denied for user '%s'@'%s' (using password: %s)&quot;</source><target state="final">&quot;Acesso negado para o usuário '%s'@'%s' (senha usada: %s)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_DB_ERROR 3D000" approved="no"><source>&quot;No database selected&quot;</source><target state="final">&quot;Nenhum banco de dados foi selecionado&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_COM_ERROR 08S01" approved="no"><source>&quot;Unknown command&quot;</source><target state="final">&quot;Comando desconhecido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_NULL_ERROR 23000" approved="no"><source>&quot;Column '%-.192s' cannot be null&quot;</source><target state="final">&quot;Coluna '%-.192s' não pode ser vazia&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_DB_ERROR 42000" approved="no"><source>&quot;Unknown database '%-.192s'&quot;</source><target state="final">&quot;Banco de dados '%-.192s' desconhecido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_EXISTS_ERROR 42S01" approved="no"><source>&quot;Table '%-.192s' already exists&quot;</source><target state="final">&quot;Tabela '%-.192s' já existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_TABLE_ERROR 42S02" approved="no"><source>&quot;Unknown table '%-.100T'&quot;</source><target state="final">&quot;Tabela '%-.100T' desconhecida&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NON_UNIQ_ERROR 23000" approved="no"><source>&quot;Column '%-.192s' in %-.192s is ambiguous&quot;</source><target state="final">&quot;Coluna '%-.192s' em '%-.192s' é ambígua&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SERVER_SHUTDOWN 08S01" approved="no"><source>&quot;Server shutdown in progress&quot;</source><target state="final">&quot;'Shutdown' do servidor em andamento&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_FIELD_ERROR 42S22 S0022" approved="no"><source>&quot;Unknown column '%-.192s' in '%-.192s'&quot;</source><target state="final">&quot;Coluna '%-.192s' desconhecida em '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_FIELD_WITH_GROUP 42000 S1009" approved="no"><source>&quot;'%-.192s' isn't in GROUP BY&quot;</source><target state="final">&quot;'%-.192s' não está em 'GROUP BY'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_GROUP_FIELD 42000 S1009" approved="no"><source>&quot;Can't group on '%-.192s'&quot;</source><target state="final">&quot;Não pode agrupar em '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_SUM_SELECT 42000 S1009" approved="no"><source>&quot;Statement has sum functions and columns in same statement&quot;</source><target state="final">&quot;Cláusula contém funções de soma e colunas juntas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_VALUE_COUNT 21S01" approved="no"><source>&quot;Column count doesn't match value count&quot;</source><target state="final">&quot;Contagem de colunas não confere com a contagem de valores&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_LONG_IDENT 42000 S1009" approved="no"><source>&quot;Identifier name '%-.100T' is too long&quot;</source><target state="final">&quot;Nome identificador '%-.100T' é longo demais&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_FIELDNAME 42S21 S1009" approved="no"><source>&quot;Duplicate column name '%-.192s'&quot;</source><target state="final">&quot;Nome da coluna '%-.192s' duplicado&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_KEYNAME 42000 S1009" approved="no"><source>&quot;Duplicate key name '%-.192s'&quot;</source><target state="final">&quot;Nome da chave '%-.192s' duplicado&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_ENTRY 23000 S1009" approved="no"><source>&quot;Duplicate entry '%-.192T' for key %d&quot;</source><target state="final">&quot;Entrada '%-.192T' duplicada para a chave %d&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_FIELD_SPEC 42000 S1009" approved="no"><source>&quot;Incorrect column specifier for column '%-.192s'&quot;</source><target state="final">&quot;Especificador de coluna incorreto para a coluna '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_PARSE_ERROR 42000 s1009" approved="no"><source>&quot;%s near '%-.80T' at line %d&quot;</source><target state="final">&quot;%s próximo a '%-.80T' na linha %d&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_EMPTY_QUERY 42000" approved="no"><source>&quot;Query was empty&quot;</source><target state="final">&quot;Consulta (query) estava vazia&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NONUNIQ_TABLE 42000 S1009" approved="no"><source>&quot;Not unique table/alias: '%-.192s'&quot;</source><target state="final">&quot;Tabela/alias '%-.192s' não única&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INVALID_DEFAULT 42000 S1009" approved="no"><source>&quot;Invalid default value for '%-.192s'&quot;</source><target state="final">&quot;Valor padrão (default) inválido para '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MULTIPLE_PRI_KEY 42000 S1009" approved="no"><source>&quot;Multiple primary key defined&quot;</source><target state="final">&quot;Definida mais de uma chave primária&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_KEYS 42000 S1009" approved="no"><source>&quot;Too many keys specified; max %d keys allowed&quot;</source><target state="final">&quot;Especificadas chaves demais. O máximo permitido são %d chaves&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_KEY_PARTS 42000 S1009" approved="no"><source>&quot;Too many key parts specified; max %d parts allowed&quot;</source><target state="final">&quot;Especificadas partes de chave demais. O máximo permitido são %d partes&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_LONG_KEY 42000 S1009" approved="no"><source>&quot;Specified key was too long; max key length is %d bytes&quot;</source><target state="final">&quot;Chave especificada longa demais. O comprimento de chave máximo permitido é %d&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_KEY_COLUMN_DOES_NOT_EXIST 42000 S1009" approved="no"><source>&quot;Key column '%-.192s' doesn't exist in table&quot;</source><target state="final">&quot;Coluna chave '%-.192s' não existe na tabela&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_BIG_FIELDLENGTH 42000 S1009" approved="no"><source>&quot;Column length too big for column '%-.192s' (max = %lu); use BLOB or TEXT instead&quot;</source><target state="final">&quot;Comprimento da coluna '%-.192s' grande demais (max = %lu); use BLOB em seu lugar&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_AUTO_KEY 42000 S1009" approved="no"><source>&quot;Incorrect table definition; there can be only one auto column and it must be defined as a key&quot;</source><target state="final">&quot;Definição incorreta de tabela. Somente é permitido um único campo auto-incrementado e ele tem que ser definido como chave&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NORMAL_SHUTDOWN" approved="no"><source>&quot;%s (initiated by: %s): Normal shutdown&quot;</source><target state="final">&quot;%s (%s): 'Shutdown' normal&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_GOT_SIGNAL" approved="no"><source>&quot;%s: Got signal %d. Aborting!\n&quot;</source><target state="final">&quot;%s: Obteve sinal %d. Abortando!\n&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SHUTDOWN_COMPLETE" approved="no"><source>&quot;%s: Shutdown complete\n&quot;</source><target state="final">&quot;%s: 'Shutdown' completo\n&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FORCING_CLOSE 08S01" approved="no"><source>&quot;%s: Forcing close of thread %ld  user: '%-.48s'\n&quot;</source><target state="final">&quot;%s: Forçando finalização da 'thread' %ld - usuário '%-.48s'\n&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_IPSOCK_ERROR 08S01" approved="no"><source>&quot;Can't create IP socket&quot;</source><target state="final">&quot;Não pode criar o soquete IP&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_SUCH_INDEX 42S12 S1009" approved="no"><source>&quot;Table '%-.192s' has no index like the one used in CREATE INDEX; recreate the table&quot;</source><target state="final">&quot;Tabela '%-.192s' não possui um índice como o usado em CREATE INDEX. Recrie a tabela&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_FIELD_TERMINATORS 42000 S1009" approved="no"><source>&quot;Field separator argument is not what is expected; check the manual&quot;</source><target state="final">&quot;Argumento separador de campos não é o esperado. Cheque o manual&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BLOBS_AND_NO_TERMINATED 42000 S1009" approved="no"><source>&quot;You can't use fixed rowlength with BLOBs; please use 'fields terminated by'&quot;</source><target state="final">&quot;Você não pode usar comprimento de linha fixo com BLOBs. Por favor, use campos com comprimento limitado&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TEXTFILE_NOT_READABLE" approved="no"><source>&quot;The file '%-.128s' must be in the database directory or be readable by all&quot;</source><target state="final">&quot;Arquivo '%-.128s' tem que estar no diretório do banco de dados ou ter leitura possível para todos&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FILE_EXISTS_ERROR" approved="no"><source>&quot;File '%-.200s' already exists&quot;</source><target state="final">&quot;Arquivo '%-.200s' já existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOAD_INFO" approved="no"><source>&quot;Records: %ld  Deleted: %ld  Skipped: %ld  Warnings: %ld&quot;</source><target state="final">&quot;Registros: %ld - Deletados: %ld - Ignorados: %ld - Avisos: %ld&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ALTER_INFO" approved="no"><source>&quot;Records: %ld  Duplicates: %ld&quot;</source><target state="final">&quot;Registros: %ld - Duplicados: %ld&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_SUB_KEY" approved="no"><source>&quot;Incorrect prefix key; the used key part isn't a string, the used length is longer than the key part, or the storage engine doesn't support unique prefix keys&quot;</source><target state="final">&quot;Sub parte da chave incorreta. A parte da chave usada não é uma 'string' ou o comprimento usado é maior que parte da chave ou o manipulador de tabelas não suporta sub chaves únicas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_REMOVE_ALL_FIELDS 42000" approved="no"><source>&quot;You can't delete all columns with ALTER TABLE; use DROP TABLE instead&quot;</source><target state="final">&quot;Você não pode deletar todas as colunas com ALTER TABLE; use DROP TABLE em seu lugar&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_DROP_FIELD_OR_KEY 42000" approved="no"><source>&quot;Can't DROP %s %`-.192s; check that it exists&quot;</source><target state="final">&quot;Não se pode fazer DROP %s %`-.192s. Confira se esta coluna/chave existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INSERT_INFO" approved="no"><source>&quot;Records: %ld  Duplicates: %ld  Warnings: %ld&quot;</source><target state="final">&quot;Registros: %ld - Duplicados: %ld - Avisos: %ld&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_SUCH_THREAD" approved="no"><source>&quot;Unknown thread id: %lu&quot;</source><target state="final">&quot;'Id' de 'thread' %lu desconhecido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_KILL_DENIED_ERROR" approved="no"><source>&quot;You are not owner of thread %lld&quot;</source><target state="final">&quot;Você não é proprietário da 'thread' %lld&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_TABLES_USED" approved="no"><source>&quot;No tables used&quot;</source><target state="final">&quot;Nenhuma tabela usada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_BIG_SET" approved="no"><source>&quot;Too many strings for column %-.192s and SET&quot;</source><target state="final">&quot;'Strings' demais para coluna '%-.192s' e SET&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_UNIQUE_LOGFILE" approved="no"><source>&quot;Can't generate a unique log-filename %-.200s.(1-999)\n&quot;</source><target state="final">&quot;Não pode gerar um nome de arquivo de 'log' único '%-.200s'.(1-999)\n&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_NOT_LOCKED_FOR_WRITE" approved="no"><source>&quot;Table '%-.192s' was locked with a READ lock and can't be updated&quot;</source><target state="final">&quot;Tabela '%-.192s' foi travada com trava de leitura e não pode ser atualizada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_NOT_LOCKED" approved="no"><source>&quot;Table '%-.192s' was not locked with LOCK TABLES&quot;</source><target state="final">&quot;Tabela '%-.192s' não foi travada com LOCK TABLES&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_DB_NAME 42000" approved="no"><source>&quot;Incorrect database name '%-.100T'&quot;</source><target state="final">&quot;Nome de banco de dados '%-.100T' incorreto&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_TABLE_NAME 42000" approved="no"><source>&quot;Incorrect table name '%-.100s'&quot;</source><target state="final">&quot;Nome de tabela '%-.100s' incorreto&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_BIG_SELECT 42000" approved="no"><source>&quot;The SELECT would examine more than MAX_JOIN_SIZE rows; check your WHERE and use SET SQL_BIG_SELECTS=1 or SET MAX_JOIN_SIZE=# if the SELECT is okay&quot;</source><target state="final">&quot;O SELECT examinaria registros demais e provavelmente levaria muito tempo. Cheque sua cláusula WHERE e use SET SQL_BIG_SELECTS=1, se o SELECT estiver correto&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_ERROR" approved="no"><source>&quot;Unknown error&quot;</source><target state="final">&quot;Erro desconhecido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_PROCEDURE 42000" approved="no"><source>&quot;Unknown procedure '%-.192s'&quot;</source><target state="final">&quot;'Procedure' '%-.192s' desconhecida&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_PARAMCOUNT_TO_PROCEDURE 42000" approved="no"><source>&quot;Incorrect parameter count to procedure '%-.192s'&quot;</source><target state="final">&quot;Número de parâmetros incorreto para a 'procedure' '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_PARAMETERS_TO_PROCEDURE" approved="no"><source>&quot;Incorrect parameters to procedure '%-.192s'&quot;</source><target state="final">&quot;Parâmetros incorretos para a 'procedure' '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_TABLE 42S02" approved="no"><source>&quot;Unknown table '%-.192s' in %-.32s&quot;</source><target state="final">&quot;Tabela '%-.192s' desconhecida em '%-.32s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FIELD_SPECIFIED_TWICE 42000" approved="no"><source>&quot;Column '%-.192s' specified twice&quot;</source><target state="final">&quot;Coluna '%-.192s' especificada duas vezes&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INVALID_GROUP_FUNC_USE" approved="no"><source>&quot;Invalid use of group function&quot;</source><target state="final">&quot;Uso inválido de função de agrupamento (GROUP)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNSUPPORTED_EXTENSION 42000" approved="no"><source>&quot;Table '%-.192s' uses an extension that doesn't exist in this MariaDB version&quot;</source><target state="final">&quot;Tabela '%-.192s' usa uma extensão que não existe nesta versão do MariaDB&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_MUST_HAVE_COLUMNS 42000" approved="no"><source>&quot;A table must have at least 1 column&quot;</source><target state="final">&quot;Uma tabela tem que ter pelo menos uma (1) coluna&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_RECORD_FILE_FULL" approved="no"><source>&quot;The table '%-.192s' is full&quot;</source><target state="final">&quot;Tabela '%-.192s' está cheia&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_CHARACTER_SET 42000" approved="no"><source>&quot;Unknown character set: '%-.64s'&quot;</source><target state="final">&quot;Conjunto de caracteres '%-.64s' desconhecido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_TABLES" approved="no"><source>&quot;Too many tables; MariaDB can only use %d tables in a join&quot;</source><target state="final">&quot;Tabelas demais. O MariaDB pode usar somente %d tabelas em uma junção (JOIN)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_FIELDS" approved="no"><source>&quot;Too many columns&quot;</source><target state="final">&quot;Colunas demais&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_BIG_ROWSIZE 42000" approved="no"><source>&quot;Row size too large. The maximum row size for the used table type, not counting BLOBs, is %ld. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs&quot;</source><target state="final">&quot;Tamanho de linha grande demais. O máximo tamanho de linha, não contando BLOBs, é %ld. Você tem que mudar alguns campos para BLOBs&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_STACK_OVERRUN" approved="no"><source>&quot;Thread stack overrun:  Used: %ld of a %ld stack.  Use 'mariadbd --thread_stack=#' to specify a bigger stack if needed&quot;</source><target state="final">&quot;Estouro da pilha do 'thread'. Usados %ld de uma pilha de %ld. Use 'mariadbd --thread_stack=#' para especificar uma pilha maior, se necessário&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_OUTER_JOIN 42000" approved="no"><source>&quot;Cross dependency found in OUTER JOIN; examine your ON conditions&quot;</source><target state="final">&quot;Dependência cruzada encontrada em junção externa (OUTER JOIN); examine as condições utilizadas nas cláusulas 'ON'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_FIND_UDF" approved="no"><source>&quot;Can't load function '%-.192s'&quot;</source><target state="final">&quot;Não pode carregar a função '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_INITIALIZE_UDF" approved="no"><source>&quot;Can't initialize function '%-.192s'; %-.80s&quot;</source><target state="final">&quot;Não pode inicializar a função '%-.192s' - '%-.80s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UDF_NO_PATHS" approved="no"><source>&quot;No paths allowed for shared library&quot;</source><target state="final">&quot;Não há caminhos (paths) permitidos para biblioteca compartilhada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UDF_EXISTS" approved="no"><source>&quot;Function '%-.192s' already exists&quot;</source><target state="final">&quot;Função '%-.192s' já existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_OPEN_LIBRARY" approved="no"><source>&quot;Can't open shared library '%-.192s' (errno: %d, %-.128s)&quot;</source><target state="final">&quot;Não pode abrir biblioteca compartilhada '%-.192s' (erro no. %d, %-.128s)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_FIND_DL_ENTRY" approved="no"><source>&quot;Can't find symbol '%-.128s' in library&quot;</source><target state="final">&quot;Não pode encontrar a função '%-.128s' na biblioteca&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FUNCTION_NOT_DEFINED" approved="no"><source>&quot;Function '%-.192s' is not defined&quot;</source><target state="final">&quot;Função '%-.192s' não está definida&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_HOST_IS_BLOCKED" approved="no"><source>&quot;Host '%-.64s' is blocked because of many connection errors; unblock with 'mariadb-admin flush-hosts'&quot;</source><target state="final">&quot;'Host' '%-.64s' está bloqueado devido a muitos erros de conexão. Desbloqueie com 'mariadb-admin flush-hosts'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_HOST_NOT_PRIVILEGED" approved="no"><source>&quot;Host '%-.64s' is not allowed to connect to this MariaDB server&quot;</source><target state="final">&quot;'Host' '%-.64s' não tem permissão para se conectar com este servidor MariaDB&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_PASSWORD_ANONYMOUS_USER 42000" approved="no"><source>&quot;You are using MariaDB as an anonymous user and anonymous users are not allowed to modify user settings&quot;</source><target state="final">&quot;Você está usando o MariaDB como usuário anônimo e usuários anônimos não têm permissão para mudar senhas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_PASSWORD_NOT_ALLOWED 42000" approved="no"><source>&quot;You must have privileges to update tables in the mysql database to be able to change passwords for others&quot;</source><target state="final">&quot;Você deve ter privilégios para atualizar tabelas no banco de dados mysql para ser capaz de mudar a senha de outros&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_PASSWORD_NO_MATCH 28000" approved="no"><source>&quot;Can't find any matching row in the user table&quot;</source><target state="final">&quot;Não pode encontrar nenhuma linha que combine na tabela usuário (user table)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UPDATE_INFO" approved="no"><source>&quot;Rows matched: %ld  Changed: %ld  Warnings: %ld&quot;</source><target state="final">&quot;Linhas que combinaram: %ld - Alteradas: %ld - Avisos: %ld&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_CREATE_THREAD" approved="no"><source>&quot;Can't create a new thread (errno %M); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug&quot;</source><target state="final">&quot;Não pode criar uma nova 'thread' (erro no. %M). Se você não estiver sem memória disponível, você pode consultar o manual sobre um possível 'bug' dependente do sistema operacional&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_VALUE_COUNT_ON_ROW 21S01" approved="no"><source>&quot;Column count doesn't match value count at row %lu&quot;</source><target state="final">&quot;Contagem de colunas não confere com a contagem de valores na linha %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_REOPEN_TABLE" approved="no"><source>&quot;Can't reopen table: '%-.192s'&quot;</source><target state="final">&quot;Não pode reabrir a tabela '%-.192s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INVALID_USE_OF_NULL 22004" approved="no"><source>&quot;Invalid use of NULL value&quot;</source><target state="final">&quot;Uso inválido do valor NULL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_REGEXP_ERROR 42000" approved="no"><source>&quot;Regex error '%s'&quot;</source><target state="final">&quot;Obteve erro '%s' em regexp&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MIX_OF_GROUP_FUNC_AND_FIELDS 42000" approved="no"><source>&quot;Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause&quot;</source><target state="final">&quot;Mistura de colunas agrupadas (com MIN(), MAX(), COUNT(), ...) com colunas não agrupadas é ilegal, se não existir uma cláusula de agrupamento (cláusula GROUP BY)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NONEXISTING_GRANT 42000" approved="no"><source>&quot;There is no such grant defined for user '%-.48s' on host '%-.64s'&quot;</source><target state="final">&quot;Não existe tal permissão (grant) definida para o usuário '%-.48s' no 'host' '%-.64s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLEACCESS_DENIED_ERROR 42000" approved="no"><source>&quot;%-.100T command denied to user '%s'@'%s' for table '%-.192s'&quot;</source><target state="final">&quot;Comando '%-.100T' negado para o usuário '%s'@'%s' na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_COLUMNACCESS_DENIED_ERROR 42000" approved="no"><source>&quot;%-.32s command denied to user '%s'@'%s' for column '%-.192s' in table '%-.192s'&quot;</source><target state="final">&quot;Comando '%-.32s' negado para o usuário '%s'@'%s' na coluna '%-.192s', na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ILLEGAL_GRANT_FOR_TABLE 42000" approved="no"><source>&quot;Illegal GRANT/REVOKE command; please consult the manual to see which privileges can be used&quot;</source><target state="final">&quot;Comando GRANT/REVOKE ilegal. Por favor consulte no manual quais privilégios podem ser usados&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_GRANT_WRONG_HOST_OR_USER 42000" approved="no"><source>&quot;The host or user argument to GRANT is too long&quot;</source><target state="final">&quot;Argumento de 'host' ou de usuário para o GRANT é longo demais&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_SUCH_TABLE 42S02" approved="no"><source>&quot;Table '%-.192s.%-.192s' doesn't exist&quot;</source><target state="final">&quot;Tabela '%-.192s.%-.192s' não existe&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NONEXISTING_TABLE_GRANT 42000" approved="no"><source>&quot;There is no such grant defined for user '%-.48s' on host '%-.64s' on table '%-.192s'&quot;</source><target state="final">&quot;Não existe tal permissão (grant) definido para o usuário '%-.48s' no 'host' '%-.64s', na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NOT_ALLOWED_COMMAND 42000" approved="no"><source>&quot;The used command is not allowed with this MariaDB version&quot;</source><target state="final">&quot;Comando usado não é permitido para esta versão do MariaDB&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SYNTAX_ERROR 42000" approved="no"><source>&quot;You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use&quot;</source><target state="final">&quot;Você tem um erro de sintaxe no seu SQL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DELAYED_CANT_CHANGE_LOCK" approved="no"><source>&quot;Delayed insert thread couldn't get requested lock for table %-.192s&quot;</source><target state="final">&quot;'Thread' de inserção retardada (atrasada) pois não conseguiu obter a trava solicitada para tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_DELAYED_THREADS" approved="no"><source>&quot;Too many delayed threads in use&quot;</source><target state="final">&quot;Excesso de 'threads' retardadas (atrasadas) em uso&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ABORTING_CONNECTION 08S01" approved="no"><source>&quot;Aborted connection %ld to db: '%-.192s' user: '%-.48s' (%-.64s)&quot;</source><target state="final">&quot;Conexão %ld abortou para o banco de dados '%-.192s' - usuário '%-.48s' (%-.64s)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_PACKET_TOO_LARGE 08S01" approved="no"><source>&quot;Got a packet bigger than 'max_allowed_packet' bytes&quot;</source><target state="final">&quot;Obteve um pacote maior do que a taxa máxima de pacotes definida (max_allowed_packet)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_READ_ERROR_FROM_PIPE 08S01" approved="no"><source>&quot;Got a read error from the connection pipe&quot;</source><target state="final">&quot;Obteve um erro de leitura no 'pipe' da conexão&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_FCNTL_ERROR 08S01" approved="no"><source>&quot;Got an error from fcntl()&quot;</source><target state="final">&quot;Obteve um erro em fcntl()&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_PACKETS_OUT_OF_ORDER 08S01" approved="no"><source>&quot;Got packets out of order&quot;</source><target state="final">&quot;Obteve pacotes fora de ordem&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_UNCOMPRESS_ERROR 08S01" approved="no"><source>&quot;Couldn't uncompress communication packet&quot;</source><target state="final">&quot;Não conseguiu descomprimir pacote de comunicação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_READ_ERROR 08S01" approved="no"><source>&quot;Got an error reading communication packets&quot;</source><target state="final">&quot;Obteve um erro na leitura de pacotes de comunicação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_READ_INTERRUPTED 08S01" approved="no"><source>&quot;Got timeout reading communication packets&quot;</source><target state="final">&quot;Obteve expiração de tempo (timeout) na leitura de pacotes de comunicação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_ERROR_ON_WRITE 08S01" approved="no"><source>&quot;Got an error writing communication packets&quot;</source><target state="final">&quot;Obteve um erro na escrita de pacotes de comunicação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NET_WRITE_INTERRUPTED 08S01" approved="no"><source>&quot;Got timeout writing communication packets&quot;</source><target state="final">&quot;Obteve expiração de tempo ('timeout') na escrita de pacotes de comunicação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_LONG_STRING 42000" approved="no"><source>&quot;Result string is longer than 'max_allowed_packet' bytes&quot;</source><target state="final">&quot;'String' resultante é mais longa do que 'max_allowed_packet'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_BLOB 42000" approved="no"><source>&quot;Storage engine %s doesn't support BLOB/TEXT columns&quot;</source><target state="final">&quot;Tipo de tabela usado (%s) não permite colunas BLOB/TEXT&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_AUTO_INCREMENT 42000" approved="no"><source>&quot;Storage engine %s doesn't support AUTO_INCREMENT columns&quot;</source><target state="final">&quot;Tipo de tabela usado (%s) não permite colunas AUTO_INCREMENT&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DELAYED_INSERT_TABLE_LOCKED" approved="no"><source>&quot;INSERT DELAYED can't be used with table '%-.192s' because it is locked with LOCK TABLES&quot;</source><target state="final">&quot;INSERT DELAYED não pode ser usado com a tabela '%-.192s', porque ela está travada com LOCK TABLES&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_COLUMN_NAME 42000" approved="no"><source>&quot;Incorrect column name '%-.100s'&quot;</source><target state="final">&quot;Nome de coluna '%-.100s' incorreto&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_MRG_TABLE" approved="no"><source>&quot;Unable to open underlying table which is differently defined or of non-MyISAM type or doesn't exist&quot;</source><target state="final">&quot;Todas as tabelas contidas na tabela fundida (MERGE) não estão definidas identicamente&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_UNIQUE 23000" approved="no"><source>&quot;Can't write, because of unique constraint, to table '%-.192s'&quot;</source><target state="final">&quot;Não pode gravar, devido à restrição UNIQUE, na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BLOB_KEY_WITHOUT_LENGTH 42000" approved="no"><source>&quot;BLOB/TEXT column '%-.192s' used in key specification without a key length&quot;</source><target state="final">&quot;Coluna BLOB '%-.192s' usada na especificação de chave sem o comprimento da chave&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_PRIMARY_CANT_HAVE_NULL 42000" approved="no"><source>&quot;All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead&quot;</source><target state="final">&quot;Todas as partes de uma chave primária devem ser não-nulas. Se você precisou usar um valor nulo (NULL) em uma chave, use a cláusula UNIQUE em seu lugar&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_ROWS 42000" approved="no"><source>&quot;Result consisted of more than one row&quot;</source><target state="final">&quot;O resultado consistiu em mais do que uma linha&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_REQUIRES_PRIMARY_KEY 42000" approved="no"><source>&quot;This table type requires a primary key&quot;</source><target state="final">&quot;Este tipo de tabela requer uma chave primária&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_RAID_COMPILED" approved="no"><source>&quot;This version of MariaDB is not compiled with RAID support&quot;</source><target state="final">&quot;Esta versão do MariaDB não foi compilada com suporte a RAID&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UPDATE_WITHOUT_KEY_IN_SAFE_MODE" approved="no"><source>&quot;You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column&quot;</source><target state="final">&quot;Você está usando modo de atualização seguro e tentou atualizar uma tabela sem uma cláusula WHERE que use uma coluna chave&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_KEY_DOES_NOT_EXISTS 42000 S1009" approved="no"><source>&quot;Key '%-.192s' doesn't exist in table '%-.192s'&quot;</source><target state="final">&quot;Chave '%-.192s' não existe na tabela '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CHECK_NO_SUCH_TABLE 42000" approved="no"><source>&quot;Can't open table&quot;</source><target state="final">&quot;Não pode abrir a tabela&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CHECK_NOT_IMPLEMENTED 42000" approved="no"><source>&quot;The storage engine for the table doesn't support %s&quot;</source><target state="final">&quot;O manipulador de tabela não suporta %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_DO_THIS_DURING_AN_TRANSACTION 25000" approved="no"><source>&quot;You are not allowed to execute this command in a transaction&quot;</source><target state="final">&quot;Não lhe é permitido executar este comando em uma transação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_DURING_COMMIT" approved="no"><source>&quot;Got error %M during COMMIT&quot;</source><target state="final">&quot;Obteve erro %M durante COMMIT&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_DURING_ROLLBACK" approved="no"><source>&quot;Got error %M during ROLLBACK&quot;</source><target state="final">&quot;Obteve erro %M durante ROLLBACK&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_DURING_FLUSH_LOGS" approved="no"><source>&quot;Got error %M during FLUSH_LOGS&quot;</source><target state="final">&quot;Obteve erro %M durante FLUSH_LOGS&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_DURING_CHECKPOINT" approved="no"><source>&quot;Got error %M during CHECKPOINT&quot;</source><target state="final">&quot;Obteve erro %M durante CHECKPOINT&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NEW_ABORTING_CONNECTION 08S01" approved="no"><source>&quot;Aborted connection %lld to db: '%-.192s' user: '%-.48s' host: '%-.64s' (%-.64s)&quot;</source><target state="final">&quot;Conexão %lld abortada para banco de dados '%-.192s' - usuário '%-.48s' - 'host' '%-.64s' ('%-.64s')&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FLUSH_MASTER_BINLOG_CLOSED" approved="no"><source>&quot;Binlog closed, cannot RESET MASTER&quot;</source><target state="final">&quot;Binlog fechado. Não pode fazer RESET MASTER&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INDEX_REBUILD" approved="no"><source>&quot;Failed rebuilding the index of  dumped table '%-.192s'&quot;</source><target state="final">&quot;Falhou na reconstrução do índice da tabela 'dumped' '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MASTER" approved="no"><source>&quot;Error from master: '%-.64s'&quot;</source><target state="final">&quot;Erro no 'master' '%-.64s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MASTER_NET_READ 08S01" approved="no"><source>&quot;Net error reading from master&quot;</source><target state="final">&quot;Erro de rede lendo do 'master'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MASTER_NET_WRITE 08S01" approved="no"><source>&quot;Net error writing to master&quot;</source><target state="final">&quot;Erro de rede gravando no 'master'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FT_MATCHING_KEY_NOT_FOUND" approved="no"><source>&quot;Can't find FULLTEXT index matching the column list&quot;</source><target state="final">&quot;Não pode encontrar um índice para o texto todo que combine com a lista de colunas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOCK_OR_ACTIVE_TRANSACTION" approved="no"><source>&quot;Can't execute the given command because you have active locked tables or an active transaction&quot;</source><target state="final">&quot;Não pode executar o comando dado porque você tem tabelas ativas travadas ou uma transação ativa&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_SYSTEM_VARIABLE" approved="no"><source>&quot;Unknown system variable '%-.*s'&quot;</source><target state="final">&quot;Variável de sistema '%-.*s' desconhecida&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CRASHED_ON_USAGE" approved="no"><source>&quot;Table '%-.192s' is marked as crashed and should be repaired&quot;</source><target state="final">&quot;Tabela '%-.192s' está marcada como danificada e deve ser reparada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CRASHED_ON_REPAIR" approved="no"><source>&quot;Table '%-.192s' is marked as crashed and last (automatic?) repair failed&quot;</source><target state="final">&quot;Tabela '%-.192s' está marcada como danificada e a última reparação (automática?) falhou&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARNING_NOT_COMPLETE_ROLLBACK" approved="no"><source>&quot;Some non-transactional changed tables couldn't be rolled back&quot;</source><target state="final">&quot;Aviso: Algumas tabelas não-transacionais alteradas não puderam ser reconstituídas (rolled back)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TRANS_CACHE_FULL" approved="no"><source>&quot;Multi-statement transaction required more than 'max_binlog_cache_size' bytes of storage; increase this mariadbd variable and try again&quot;</source><target state="final">&quot;Transações multi-declaradas (multi-statement transactions) requeriram mais do que o valor limite (max_binlog_cache_size) de bytes para armazenagem. Aumente o valor desta variável do mariadbd e tente novamente&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_MUST_STOP" approved="no"><source>&quot;This operation cannot be performed as you have a running slave '%2$*1$s'; run STOP SLAVE '%2$*1$s' first&quot;</source><target state="final">&quot;Esta operação não pode ser realizada com um 'slave' '%2$*1$s' em execução. Execute STOP SLAVE '%2$*1$s' primeiro&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_NOT_RUNNING" approved="no"><source>&quot;This operation requires a running slave; configure slave and do START SLAVE&quot;</source><target state="final">&quot;Esta operação requer um 'slave' em execução. Configure  o 'slave' e execute START SLAVE&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_SLAVE" approved="no"><source>&quot;The server is not configured as slave; fix in config file or with CHANGE MASTER TO&quot;</source><target state="final">&quot;O servidor não está configurado como 'slave'. Acerte o arquivo de configuração ou use CHANGE MASTER TO&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_THREAD" approved="no"><source>&quot;Could not create slave thread; check system resources&quot;</source><target state="final">&quot;Não conseguiu criar 'thread' de 'slave'. Verifique os recursos do sistema&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MANY_USER_CONNECTIONS 42000" approved="no"><source>&quot;User %-.64s already has more than 'max_user_connections' active connections&quot;</source><target state="final">&quot;Usuário '%-.64s' já possui mais que o valor máximo de conexões (max_user_connections) ativas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SET_CONSTANTS_ONLY" approved="no"><source>&quot;You may only use constant expressions in this statement&quot;</source><target state="final">&quot;Você pode usar apenas expressões constantes com SET&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOCK_WAIT_TIMEOUT" approved="no"><source>&quot;Lock wait timeout exceeded; try restarting transaction&quot;</source><target state="final">&quot;Tempo de espera (timeout) de travamento excedido. Tente reiniciar a transação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOCK_TABLE_FULL" approved="no"><source>&quot;The total number of locks exceeds the lock table size&quot;</source><target state="final">&quot;O número total de travamentos excede o tamanho da tabela de travamentos&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_READ_ONLY_TRANSACTION 25000" approved="no"><source>&quot;Update locks cannot be acquired during a READ UNCOMMITTED transaction&quot;</source><target state="final">&quot;Travamentos de atualização não podem ser obtidos durante uma transação de tipo READ UNCOMMITTED&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DROP_DB_WITH_READ_LOCK" approved="no"><source>&quot;DROP DATABASE not allowed while thread is holding global read lock&quot;</source><target state="final">&quot;DROP DATABASE não permitido enquanto uma 'thread' está mantendo um travamento global de leitura&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CREATE_DB_WITH_READ_LOCK" approved="no"><source>&quot;CREATE DATABASE not allowed while thread is holding global read lock&quot;</source><target state="final">&quot;CREATE DATABASE não permitido enquanto uma 'thread' está mantendo um travamento global de leitura&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_ARGUMENTS" approved="no"><source>&quot;Incorrect arguments to %s&quot;</source><target state="final">&quot;Argumentos errados para %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_PERMISSION_TO_CREATE_USER 42000" approved="no"><source>&quot;'%s'@'%s' is not allowed to create new users&quot;</source><target state="final">&quot;Não é permitido a '%s'@'%s' criar novos usuários&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNION_TABLES_IN_DIFFERENT_DIR" approved="no"><source>&quot;Incorrect table definition; all MERGE tables must be in the same database&quot;</source><target state="final">&quot;Definição incorreta da tabela. Todas as tabelas contidas na junção devem estar no mesmo banco de dados&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOCK_DEADLOCK 40001" approved="no"><source>&quot;Deadlock found when trying to get lock; try restarting transaction&quot;</source><target state="final">&quot;Encontrado um travamento fatal (deadlock) quando tentava obter uma trava. Tente reiniciar a transação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_FT" approved="no"><source>&quot;The storage engine %s doesn't support FULLTEXT indexes&quot;</source><target state="final">&quot;O tipo de tabela utilizado (%s) não suporta índices de texto completo (fulltext indexes)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANNOT_ADD_FOREIGN" approved="no"><source>&quot;Cannot add foreign key constraint for `%s`&quot;</source><target state="final">&quot;Não pode acrescentar uma restrição de chave estrangeira para `%s`&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_REFERENCED_ROW 23000" approved="no"><source>&quot;Cannot add or update a child row: a foreign key constraint fails&quot;</source><target state="final">&quot;Não pode acrescentar uma linha filha: uma restrição de chave estrangeira falhou&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ROW_IS_REFERENCED 23000" approved="no"><source>&quot;Cannot delete or update a parent row: a foreign key constraint fails&quot;</source><target state="final">&quot;Não pode apagar uma linha pai: uma restrição de chave estrangeira falhou&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CONNECT_TO_MASTER 08S01" approved="no"><source>&quot;Error connecting to master: %-.128s&quot;</source><target state="final">&quot;Erro conectando com o master: %-.128s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_QUERY_ON_MASTER" approved="no"><source>&quot;Error running query on master: %-.128s&quot;</source><target state="final">&quot;Erro rodando consulta no master: %-.128s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ERROR_WHEN_EXECUTING_COMMAND" approved="no"><source>&quot;Error when executing command %s: %-.128s&quot;</source><target state="final">&quot;Erro quando executando comando %s: %-.128s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_USAGE" approved="no"><source>&quot;Incorrect usage of %s and %s&quot;</source><target state="final">&quot;Uso errado de %s e %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_NUMBER_OF_COLUMNS_IN_SELECT 21000" approved="no"><source>&quot;The used SELECT statements have a different number of columns&quot;</source><target state="final">&quot;Os comandos SELECT usados têm diferente número de colunas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_UPDATE_WITH_READLOCK" approved="no"><source>&quot;Can't execute the query because you have a conflicting read lock&quot;</source><target state="final">&quot;Não posso executar a consulta porque você tem um conflito de travamento de leitura&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MIXING_NOT_ALLOWED" approved="no"><source>&quot;Mixing of transactional and non-transactional tables is disabled&quot;</source><target state="final">&quot;Mistura de tabelas transacional e não-transacional está desabilitada&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_ARGUMENT" approved="no"><source>&quot;Option '%s' used twice in statement&quot;</source><target state="final">&quot;Opção '%s' usada duas vezes no comando&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_USER_LIMIT_REACHED 42000" approved="no"><source>&quot;User '%-.64s' has exceeded the '%s' resource (current value: %ld)&quot;</source><target state="final">&quot;Usuário '%-.64s' tem excedido o '%s' recurso (atual valor: %ld)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SPECIFIC_ACCESS_DENIED_ERROR 42000" approved="no"><source>&quot;Access denied; you need (at least one of) the %-.128s privilege(s) for this operation&quot;</source><target state="final">&quot;Acesso negado. Você precisa o privilégio %-.128s para essa operação&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_LOCAL_VARIABLE" approved="no"><source>&quot;Variable '%-.64s' is a SESSION variable and can't be used with SET GLOBAL&quot;</source><target state="final">&quot;Variável '%-.64s' é uma SESSION variável e não pode ser usada com SET GLOBAL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_GLOBAL_VARIABLE" approved="no"><source>&quot;Variable '%-.64s' is a GLOBAL variable and should be set with SET GLOBAL&quot;</source><target state="final">&quot;Variável '%-.64s' é uma GLOBAL variável e deve ser configurada com SET GLOBAL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NO_DEFAULT 42000" approved="no"><source>&quot;Variable '%-.64s' doesn't have a default value&quot;</source><target state="final">&quot;Variável '%-.64s' não tem um valor padrão&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_VALUE_FOR_VAR 42000" approved="no"><source>&quot;Variable '%-.64s' can't be set to the value of '%-.200T'&quot;</source><target state="final">&quot;Variável '%-.64s' não pode ser configurada para o valor de '%-.200T'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_TYPE_FOR_VAR 42000" approved="no"><source>&quot;Incorrect argument type to variable '%-.64s'&quot;</source><target state="final">&quot;Tipo errado de argumento para variável '%-.64s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_VAR_CANT_BE_READ" approved="no"><source>&quot;Variable '%-.64s' can only be set, not read&quot;</source><target state="final">&quot;Variável '%-.64s' somente pode ser configurada, não lida&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_USE_OPTION_HERE 42000" approved="no"><source>&quot;Incorrect usage/placement of '%s'&quot;</source><target state="final">&quot;Errado uso/colocação de '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NOT_SUPPORTED_YET 42000" approved="no"><source>&quot;This version of MariaDB doesn't yet support '%s'&quot;</source><target state="final">&quot;Esta versão de MariaDB não suporta ainda '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MASTER_FATAL_ERROR_READING_BINLOG" approved="no"><source>&quot;Got fatal error %d from master when reading data from binary log: '%-.320s'&quot;</source><target state="final">&quot;Obteve fatal erro %d: '%-.320s' do master quando lendo dados do binary log&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_TABLE" approved="no"><source>&quot;Slave SQL thread ignored the query because of replicate-*-table rules&quot;</source><target state="final">&quot;Slave SQL thread ignorado a consulta devido às normas de replicação-*-tabela&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_FK_DEF 42000" approved="no"><source>&quot;Incorrect foreign key definition for '%-.192s': %s&quot;</source><target state="final">&quot;Definição errada da chave estrangeira para '%-.192s': %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_KEY_REF_DO_NOT_MATCH_TABLE_REF" approved="no"><source>&quot;Key reference and table reference don't match&quot;</source><target state="final">&quot;Referência da chave e referência da tabela não coincidem&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SUBQUERY_NO_1_ROW 21000" approved="no"><source>&quot;Subquery returns more than 1 row&quot;</source><target state="final">&quot;Subconsulta retorna mais que 1 registro&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_STMT_HANDLER" approved="no"><source>&quot;Unknown prepared statement handler (%.*s) given to %s&quot;</source><target state="final">&quot;Desconhecido manipulador de declaração preparado (%.*s) determinado para %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CORRUPT_HELP_DB" approved="no"><source>&quot;Help database is corrupt or does not exist&quot;</source><target state="final">&quot;Banco de dado de ajuda corrupto ou não existente&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CYCLIC_REFERENCE" approved="no"><source>&quot;Cyclic reference on subqueries&quot;</source><target state="final">&quot;Referência cíclica em subconsultas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_AUTO_CONVERT" approved="no"><source>&quot;Converting column '%s' from %s to %s&quot;</source><target state="final">&quot;Convertendo coluna '%s' de %s para %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ILLEGAL_REFERENCE 42S22" approved="no"><source>&quot;Reference '%-.64s' not supported (%s)&quot;</source><target state="final">&quot;Referência '%-.64s' não suportada (%s)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DERIVED_MUST_HAVE_ALIAS 42000" approved="no"><source>&quot;Every derived table must have its own alias&quot;</source><target state="final">&quot;Cada tabela derivada deve ter seu próprio alias&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SELECT_REDUCED 01000" approved="no"><source>&quot;Select %u was reduced during optimization&quot;</source><target state="final">&quot;Select %u foi reduzido durante otimização&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TABLENAME_NOT_ALLOWED_HERE 42000" approved="no"><source>&quot;Table '%-.192s' from one of the SELECTs cannot be used in %-.32s&quot;</source><target state="final">&quot;Tabela '%-.192s' de um dos SELECTs não pode ser usada em %-.32s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NOT_SUPPORTED_AUTH_MODE 08004" approved="no"><source>&quot;Client does not support authentication protocol requested by server; consider upgrading MariaDB client&quot;</source><target state="final">&quot;Cliente não suporta o protocolo de autenticação exigido pelo servidor; considere a atualização do cliente MariaDB&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SPATIAL_CANT_HAVE_NULL 42000" approved="no"><source>&quot;All parts of a SPATIAL index must be NOT NULL&quot;</source><target state="final">&quot;Todas as partes de uma SPATIAL index devem ser NOT NULL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_COLLATION_CHARSET_MISMATCH 42000" approved="no"><source>&quot;COLLATION '%s' is not valid for CHARACTER SET '%s'&quot;</source><target state="final">&quot;COLLATION '%s' não é válida para CHARACTER SET '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_WAS_RUNNING" approved="no"><source>&quot;Slave is already running&quot;</source><target state="final">&quot;O slave já está rodando&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_WAS_NOT_RUNNING" approved="no"><source>&quot;Slave already has been stopped&quot;</source><target state="final">&quot;O slave já está parado&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_BIG_FOR_UNCOMPRESS" approved="no"><source>&quot;Uncompressed data size too large; the maximum size is %d (probably, length of uncompressed data was corrupted)&quot;</source><target state="final">&quot;Tamanho muito grande dos dados des comprimidos. O máximo tamanho é %d. (provavelmente, o comprimento dos dados descomprimidos está corrupto)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ZLIB_Z_MEM_ERROR" approved="no"><source>&quot;ZLIB: Not enough memory&quot;</source><target state="final">&quot;ZLIB: Não suficiente memória disponível&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ZLIB_Z_BUF_ERROR" approved="no"><source>&quot;ZLIB: Not enough room in the output buffer (probably, length of uncompressed data was corrupted)&quot;</source><target state="final">&quot;ZLIB: Não suficiente espaço no buffer emissor (provavelmente, o comprimento dos dados descomprimidos está corrupto)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ZLIB_Z_DATA_ERROR" approved="no"><source>&quot;ZLIB: Input data corrupted&quot;</source><target state="final">&quot;ZLIB: Dados de entrada está corrupto&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_TOO_FEW_RECORDS 01000" approved="no"><source>&quot;Row %lu doesn't contain data for all columns&quot;</source><target state="final">&quot;Conta de registro é menor que a conta de coluna na linha %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_TOO_MANY_RECORDS 01000" approved="no"><source>&quot;Row %lu was truncated; it contained more data than there were input columns&quot;</source><target state="final">&quot;Conta de registro é maior que a conta de coluna na linha %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_NULL_TO_NOTNULL 22004" approved="no"><source>&quot;Column set to default value; NULL supplied to NOT NULL column '%s' at row %lu&quot;</source><target state="final">&quot;Dado truncado, NULL fornecido para NOT NULL coluna '%s' na linha %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="WARN_DATA_TRUNCATED 01000" approved="no"><source>&quot;Data truncated for column '%s' at row %lu&quot;</source><target state="final">&quot;Dado truncado para coluna '%s' na linha %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_USING_OTHER_HANDLER" approved="no"><source>&quot;Using storage engine %s for table '%s'&quot;</source><target state="final">&quot;Usando engine de armazenamento %s para tabela '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_2COLLATIONS" approved="no"><source>&quot;Illegal mix of collations (%s,%s) and (%s,%s) for operation '%s'&quot;</source><target state="final">&quot;Combinação ilegal de collations (%s,%s) e (%s,%s) para operação '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_REVOKE_GRANTS" approved="no"><source>&quot;Can't revoke all privileges for one or more of the requested users&quot;</source><target state="final">&quot;Não pode revocar todos os privilégios, grant para um ou mais dos usuários pedidos&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_3COLLATIONS" approved="no"><source>&quot;Illegal mix of collations (%s,%s), (%s,%s), (%s,%s) for operation '%s'&quot;</source><target state="final">&quot;Ilegal combinação de collations (%s,%s), (%s,%s), (%s,%s) para operação '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_NCOLLATIONS" approved="no"><source>&quot;Illegal mix of collations for operation '%s'&quot;</source><target state="final">&quot;Ilegal combinação de collations para operação '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_VARIABLE_IS_NOT_STRUCT" approved="no"><source>&quot;Variable '%-.64s' is not a variable component (can't be used as XXXX.variable_name)&quot;</source><target state="final">&quot;Variável '%-.64s' não é uma variável componente (Não pode ser usada como XXXX.variável_nome)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_COLLATION" approved="no"><source>&quot;Unknown collation: '%-.64s'&quot;</source><target state="final">&quot;Collation desconhecida: '%-.64s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_SSL_PARAMS" approved="no"><source>&quot;SSL parameters in CHANGE MASTER are ignored because this MariaDB slave was compiled without SSL support; they can be used later if MariaDB slave with SSL is started&quot;</source><target state="final">&quot;SSL parâmetros em CHANGE MASTER são ignorados porque este escravo MariaDB foi compilado sem o SSL suporte. Os mesmos podem ser usados mais tarde quando o escravo MariaDB com SSL seja iniciado.&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SERVER_IS_IN_SECURE_AUTH_MODE" approved="no"><source>&quot;Server is running in --secure-auth mode, but '%s'@'%s' has a password in the old format; please change the password to the new format&quot;</source><target state="final">&quot;Servidor está rodando em --secure-auth modo, porêm '%s'@'%s' tem senha no formato antigo; por favor troque a senha para o novo formato&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_FIELD_RESOLVED" approved="no"><source>&quot;Field or reference '%-.192s%s%-.192s%s%-.192s' of SELECT #%d was resolved in SELECT #%d&quot;</source><target state="final">&quot;Campo ou referência '%-.192s%s%-.192s%s%-.192s' de SELECT #%d foi resolvido em SELECT #%d&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_SLAVE_UNTIL_COND" approved="no"><source>&quot;Incorrect parameter or combination of parameters for START SLAVE UNTIL&quot;</source><target state="final">&quot;Parâmetro ou combinação de parâmetros errado para START SLAVE UNTIL&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_MISSING_SKIP_SLAVE" approved="no"><source>&quot;It is recommended to use --skip-slave-start when doing step-by-step replication with START SLAVE UNTIL; otherwise, you will get problems if you get an unexpected slave's mariadbd restart&quot;</source><target state="final">&quot;É recomendado para rodar com --skip-slave-start quando fazendo replicação passo-por-passo com START SLAVE UNTIL, de outra forma você não está seguro em caso de inesperada reinicialição do mariadbd escravo&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNTIL_COND_IGNORED" approved="no"><source>&quot;SQL thread is not to be started so UNTIL options are ignored&quot;</source><target state="final">&quot;Thread SQL não pode ser inicializado tal que opções UNTIL são ignoradas&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_NAME_FOR_INDEX 42000" approved="no"><source>&quot;Incorrect index name '%-.100s'&quot;</source><target state="final">&quot;Incorreto nome de índice '%-.100s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WRONG_NAME_FOR_CATALOG 42000" approved="no"><source>&quot;Incorrect catalog name '%-.100s'&quot;</source><target state="final">&quot;Incorreto nome de catálogo '%-.100s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_QC_RESIZE" approved="no"><source>&quot;Query cache failed to set size %llu; new query cache size is %lu&quot;</source><target state="final">&quot;Falha em Query cache para configurar tamanho %llu, novo tamanho de query cache é %lu&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_BAD_FT_COLUMN" approved="no"><source>&quot;Column '%-.192s' cannot be part of FULLTEXT index&quot;</source><target state="final">&quot;Coluna '%-.192s' não pode ser parte de índice FULLTEXT&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_KEY_CACHE" approved="no"><source>&quot;Unknown key cache '%-.100s'&quot;</source><target state="final">&quot;Key cache desconhecida '%-.100s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_HOSTNAME_WONT_WORK" approved="no"><source>&quot;MariaDB is started in --skip-name-resolve mode; you must restart it without this switch for this grant to work&quot;</source><target state="final">&quot;MariaDB foi inicializado em modo --skip-name-resolve. Você necesita reincializá-lo sem esta opção para este grant funcionar&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_UNKNOWN_STORAGE_ENGINE 42000" approved="no"><source>&quot;Unknown storage engine '%s'&quot;</source><target state="final">&quot;Motor de tabela desconhecido '%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_WARN_DEPRECATED_SYNTAX" approved="no"><source>&quot;'%s' is deprecated and will be removed in a future release. Please use %s instead&quot;</source><target state="final">&quot;'%s' é desatualizado. Use '%s' em seu lugar&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_NON_UPDATABLE_TABLE" approved="no"><source>&quot;The target table %-.100s of the %s is not updatable&quot;</source><target state="final">&quot;A tabela destino %-.100s do %s não é atualizável&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_FEATURE_DISABLED" approved="no"><source>&quot;The '%s' feature is disabled; you need MariaDB built with '%s' to have it working&quot;</source><target state="final">&quot;O recurso '%s' foi desativado; você necessita MariaDB construído com '%s' para ter isto funcionando&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_OPTION_PREVENTS_STATEMENT" approved="no"><source>&quot;The MariaDB server is running with the %s option so it cannot execute this statement&quot;</source><target state="final">&quot;O servidor MariaDB está rodando com a opção %s razão pela qual não pode executar esse commando&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUPLICATED_VALUE_IN_TYPE" approved="no"><source>&quot;Column '%-.100s' has duplicated value '%-.64s' in %s&quot;</source><target state="final">&quot;Coluna '%-.100s' tem valor duplicado '%-.64s' em %s&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TRUNCATED_WRONG_VALUE 22007" approved="no"><source>&quot;Truncated incorrect %-.32T value: '%-.128T'&quot;</source><target state="final">&quot;Truncado errado %-.32T valor: '%-.128T'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_MUCH_AUTO_TIMESTAMP_COLS" approved="no"><source>&quot;Incorrect table definition; there can be only one TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT or ON UPDATE clause&quot;</source><target state="final">&quot;Incorreta definição de tabela; Pode ter somente uma coluna TIMESTAMP com CURRENT_TIMESTAMP em DEFAULT ou ON UPDATE cláusula&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_INVALID_ON_UPDATE" approved="no"><source>&quot;Invalid ON UPDATE clause for '%-.192s' column&quot;</source><target state="final">&quot;Inválida cláusula ON UPDATE para campo '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_ENTRY_WITH_KEY_NAME 23000 S1009" approved="no"><source>&quot;Duplicate entry '%-.64T' for key '%-.192s'&quot;</source><target state="final">&quot;Entrada '%-.64T' duplicada para a chave '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_LONG_TABLE_COMMENT" approved="no"><source>&quot;Comment for table '%-.64s' is too long (max = %u)&quot;</source><target state="final">&quot;Comentário para a tabela '%-.64s' é longo demais (max = %u)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_TOO_LONG_FIELD_COMMENT" approved="no"><source>&quot;Comment for field '%-.64s' is too long (max = %u)&quot;</source><target state="final">&quot;Comentário para o campo '%-.64s' é longo demais (max = %u)&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_ACCESS_DENIED_NO_PASSWORD_ERROR 28000" approved="no"><source>&quot;Access denied for user '%s'@'%s'&quot;</source><target state="final">&quot;Acesso negado para o usuário '%s'@'%s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DA_INVALID_CONDITION_NUMBER 35000" approved="no"><source>&quot;Invalid condition number&quot;</source><target state="final">&quot;Número de condição inválido&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_DUP_UNKNOWN_IN_INDEX 23000" approved="no"><source>&quot;Duplicate entry for key '%-.192s'&quot;</source><target state="final">&quot;Entrada duplicada para a chave '%-.192s'&quot;</target></trans-unit><trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_SHARED_TABLE" approved="no"><source>&quot;Slave SQL thread ignored the '%s' because table is shared&quot;</source><target state="final">&quot;Slave SQL thread ignorado a consulta devido '%s'&quot;</target></trans-unit></body></file></xliff>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
+  <file datatype="txt" target-language="por" source-language="eng">
+    <body>
+      <trans-unit xml:space="preserve" id="ER_NO" approved="yes"><source>"NO"</source>
+        <target state="final">"NÃO"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_YES" approved="yes"><source>"YES"</source>
+        <target state="final">"SIM"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_FILE" approved="no"><source>"Can't create file '%-.200s' (errno: %M)"</source>
+        <target state="final">"Não pode criar o arquivo '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_TABLE" approved="no"><source>"Can't create table %`s.%`s (errno: %M)"</source>
+        <target state="final">"Não pode criar a tabela %`s.%`s (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_DB" approved="no"><source>"Can't create database '%-.192s' (errno: %M)"</source>
+        <target state="final">"Não pode criar o banco de dados '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DB_CREATE_EXISTS" approved="no"><source>"Can't create database '%-.192s'; database exists"</source>
+        <target state="final">"Não pode criar o banco de dados '%-.192s'; este banco de dados já existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DB_DROP_EXISTS" approved="no"><source>"Can't drop database '%-.192s'; database doesn't exist"</source>
+        <target state="final">"Não pode eliminar o banco de dados '%-.192s'; este banco de dados não existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DB_DROP_DELETE" approved="no"><source>"Error dropping database (can't delete '%-.192s', errno: %M)"</source>
+        <target state="final">"Erro ao eliminar banco de dados (não pode eliminar '%-.192s' - erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DB_DROP_RMDIR" approved="no"><source>"Error dropping database (can't rmdir '%-.192s', errno: %M)"</source>
+        <target state="final">"Erro ao eliminar banco de dados (não pode remover diretório '%-.192s' - erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_DELETE_FILE" approved="no"><source>"Error on delete of '%-.192s' (errno: %M)"</source>
+        <target state="final">"Erro na remoção de '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_FIND_SYSTEM_REC" approved="no"><source>"Can't read record in system table"</source>
+        <target state="final">"Não pode ler um registro numa tabela do sistema"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_GET_STAT" approved="no"><source>"Can't get status of '%-.200s' (errno: %M)"</source>
+        <target state="final">"Não pode obter o status de '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_GET_WD" approved="no"><source>"Can't get working directory (errno: %M)"</source>
+        <target state="final">"Não pode obter o diretório corrente (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_LOCK" approved="no"><source>"Can't lock file (errno: %M)"</source>
+        <target state="final">"Não pode travar o arquivo (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_OPEN_FILE" approved="no"><source>"Can't open file: '%-.200s' (errno: %M)"</source>
+        <target state="final">"Não pode abrir o arquivo '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FILE_NOT_FOUND" approved="no"><source>"Can't find file: '%-.200s' (errno: %M)"</source>
+        <target state="final">"Não pode encontrar o arquivo '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_READ_DIR" approved="no"><source>"Can't read dir of '%-.192s' (errno: %M)"</source>
+        <target state="final">"Não pode ler o diretório de '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_SET_WD" approved="no"><source>"Can't change dir to '%-.192s' (errno: %M)"</source>
+        <target state="final">"Não pode mudar para o diretório '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CHECKREAD" approved="no"><source>"Record has changed since last read in table '%-.192s'"</source>
+        <target state="final">"Registro alterado desde a última leitura da tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DISK_FULL" approved="no"><source>"Disk full (%s); waiting for someone to free some space... (errno: %M)"</source>
+        <target state="final">"Disco cheio (%s). Aguardando alguém liberar algum espaço... (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_KEY 23000" approved="no"><source>"Can't write; duplicate key in table '%-.192s'"</source>
+        <target state="final">"Não pode gravar. Chave duplicada na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_ON_CLOSE" approved="no"><source>"Error on close of '%-.192s' (errno: %M)"</source>
+        <target state="final">"Erro ao fechar '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_ON_READ" approved="no"><source>"Error reading file '%-.200s' (errno: %M)"</source>
+        <target state="final">"Erro ao ler arquivo '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_ON_RENAME" approved="no"><source>"Error on rename of '%-.210s' to '%-.210s' (errno: %M)"</source>
+        <target state="final">"Erro ao renomear '%-.210s' para '%-.210s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_ON_WRITE" approved="no"><source>"Error writing file '%-.200s' (errno: %M)"</source>
+        <target state="final">"Erro ao gravar arquivo '%-.200s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FILE_USED" approved="no"><source>"'%-.192s' is locked against change"</source>
+        <target state="final">"'%-.192s' está com travamento contra alterações"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FILSORT_ABORT" approved="no"><source>"Sort aborted"</source>
+        <target state="final">"Ordenação abortada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FORM_NOT_FOUND" approved="no"><source>"View '%-.192s' doesn't exist for '%-.192s'"</source>
+        <target state="final">"Visão '%-.192s' não existe para '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_GET_ERRNO" approved="no"><source>"Got error %M from storage engine %s"</source>
+        <target state="final">"Obteve erro %M no manipulador de tabelas %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_KEY_NOT_FOUND" approved="no"><source>"Can't find record in '%-.192s'"</source>
+        <target state="final">"Não pode encontrar registro em '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NOT_FORM_FILE" approved="no"><source>"Incorrect information in file: '%-.200s'"</source>
+        <target state="final">"Informação incorreta no arquivo '%-.200s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NOT_KEYFILE" approved="no"><source>"Index for table '%-.200s' is corrupt; try to repair it"</source>
+        <target state="final">"Arquivo de índice incorreto para tabela '%-.200s'; tente repará-lo"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OLD_KEYFILE" approved="no"><source>"Old key file for table '%-.192s'; repair it!"</source>
+        <target state="final">"Arquivo de índice desatualizado para tabela '%-.192s'; repare-o!"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OPEN_AS_READONLY" approved="no"><source>"Table '%-.192s' is read only"</source>
+        <target state="final">"Tabela '%-.192s' é somente para leitura"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OUTOFMEMORY HY001 S1001" approved="no"><source>"Out of memory; restart server and try again (needed %d bytes)"</source>
+        <target state="final">"Sem memória. Reinicie o programa e tente novamente (necessita de %d bytes)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OUT_OF_SORTMEMORY HY001 S1001" approved="no"><source>"Out of sort memory, consider increasing server sort buffer size"</source>
+        <target state="final">"Não há memória suficiente para ordenação. Considere aumentar o tamanho do retentor (buffer) de ordenação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNEXPECTED_EOF" approved="no"><source>"Unexpected EOF found when reading file '%-.192s' (errno: %M)"</source>
+        <target state="final">"Encontrado fim de arquivo inesperado ao ler arquivo '%-.192s' (erro no. %M)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CON_COUNT_ERROR 08004" approved="no"><source>"Too many connections"</source>
+        <target state="final">"Excesso de conexões"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OUT_OF_RESOURCES" approved="no"><source>"Out of memory."</source>
+        <target state="final">"Sem memória."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_HOST_ERROR 08S01" approved="no"><source>"Can't get hostname for your address"</source>
+        <target state="final">"Não pode obter nome do 'host' para seu endereço"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_HANDSHAKE_ERROR 08S01" approved="no"><source>"Bad handshake"</source>
+        <target state="final">"Negociação de acesso falhou"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DBACCESS_DENIED_ERROR 42000" approved="no"><source>"Access denied for user '%s'@'%s' to database '%-.192s'"</source>
+        <target state="final">"Acesso negado para o usuário '%s'@'%s' ao banco de dados '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ACCESS_DENIED_ERROR 28000" approved="no"><source>"Access denied for user '%s'@'%s' (using password: %s)"</source>
+        <target state="final">"Acesso negado para o usuário '%s'@'%s' (senha usada: %s)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_DB_ERROR 3D000" approved="no"><source>"No database selected"</source>
+        <target state="final">"Nenhum banco de dados foi selecionado"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_COM_ERROR 08S01" approved="no"><source>"Unknown command"</source>
+        <target state="final">"Comando desconhecido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_NULL_ERROR 23000" approved="no"><source>"Column '%-.192s' cannot be null"</source>
+        <target state="final">"Coluna '%-.192s' não pode ser vazia"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_DB_ERROR 42000" approved="no"><source>"Unknown database '%-.192s'"</source>
+        <target state="final">"Banco de dados '%-.192s' desconhecido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_EXISTS_ERROR 42S01" approved="no"><source>"Table '%-.192s' already exists"</source>
+        <target state="final">"Tabela '%-.192s' já existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_TABLE_ERROR 42S02" approved="no"><source>"Unknown table '%-.100T'"</source>
+        <target state="final">"Tabela '%-.100T' desconhecida"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NON_UNIQ_ERROR 23000" approved="no"><source>"Column '%-.192s' in %-.192s is ambiguous"</source>
+        <target state="final">"Coluna '%-.192s' em '%-.192s' é ambígua"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SERVER_SHUTDOWN 08S01" approved="no"><source>"Server shutdown in progress"</source>
+        <target state="final">"'Shutdown' do servidor em andamento"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_FIELD_ERROR 42S22 S0022" approved="no"><source>"Unknown column '%-.192s' in '%-.192s'"</source>
+        <target state="final">"Coluna '%-.192s' desconhecida em '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_FIELD_WITH_GROUP 42000 S1009" approved="no"><source>"'%-.192s' isn't in GROUP BY"</source>
+        <target state="final">"'%-.192s' não está em 'GROUP BY'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_GROUP_FIELD 42000 S1009" approved="no"><source>"Can't group on '%-.192s'"</source>
+        <target state="final">"Não pode agrupar em '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_SUM_SELECT 42000 S1009" approved="no"><source>"Statement has sum functions and columns in same statement"</source>
+        <target state="final">"Cláusula contém funções de soma e colunas juntas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_VALUE_COUNT 21S01" approved="no"><source>"Column count doesn't match value count"</source>
+        <target state="final">"Contagem de colunas não confere com a contagem de valores"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_LONG_IDENT 42000 S1009" approved="no"><source>"Identifier name '%-.100T' is too long"</source>
+        <target state="final">"Nome identificador '%-.100T' é longo demais"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_FIELDNAME 42S21 S1009" approved="no"><source>"Duplicate column name '%-.192s'"</source>
+        <target state="final">"Nome da coluna '%-.192s' duplicado"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_KEYNAME 42000 S1009" approved="no"><source>"Duplicate key name '%-.192s'"</source>
+        <target state="final">"Nome da chave '%-.192s' duplicado"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_ENTRY 23000 S1009" approved="no"><source>"Duplicate entry '%-.192T' for key %d"</source>
+        <target state="final">"Entrada '%-.192T' duplicada para a chave %d"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_FIELD_SPEC 42000 S1009" approved="no"><source>"Incorrect column specifier for column '%-.192s'"</source>
+        <target state="final">"Especificador de coluna incorreto para a coluna '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_PARSE_ERROR 42000 s1009" approved="no"><source>"%s near '%-.80T' at line %d"</source>
+        <target state="final">"%s próximo a '%-.80T' na linha %d"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_EMPTY_QUERY 42000" approved="no"><source>"Query was empty"</source>
+        <target state="final">"Consulta (query) estava vazia"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NONUNIQ_TABLE 42000 S1009" approved="no"><source>"Not unique table/alias: '%-.192s'"</source>
+        <target state="final">"Tabela/alias '%-.192s' não única"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INVALID_DEFAULT 42000 S1009" approved="no"><source>"Invalid default value for '%-.192s'"</source>
+        <target state="final">"Valor padrão (default) inválido para '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MULTIPLE_PRI_KEY 42000 S1009" approved="no"><source>"Multiple primary key defined"</source>
+        <target state="final">"Definida mais de uma chave primária"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_KEYS 42000 S1009" approved="no"><source>"Too many keys specified; max %d keys allowed"</source>
+        <target state="final">"Especificadas chaves demais. O máximo permitido são %d chaves"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_KEY_PARTS 42000 S1009" approved="no"><source>"Too many key parts specified; max %d parts allowed"</source>
+        <target state="final">"Especificadas partes de chave demais. O máximo permitido são %d partes"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_LONG_KEY 42000 S1009" approved="no"><source>"Specified key was too long; max key length is %d bytes"</source>
+        <target state="final">"Chave especificada longa demais. O comprimento de chave máximo permitido é %d"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_KEY_COLUMN_DOES_NOT_EXIST 42000 S1009" approved="no"><source>"Key column '%-.192s' doesn't exist in table"</source>
+        <target state="final">"Coluna chave '%-.192s' não existe na tabela"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_BIG_FIELDLENGTH 42000 S1009" approved="no"><source>"Column length too big for column '%-.192s' (max = %lu); use BLOB or TEXT instead"</source>
+        <target state="final">"Comprimento da coluna '%-.192s' grande demais (max = %lu); use BLOB em seu lugar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_AUTO_KEY 42000 S1009" approved="no"><source>"Incorrect table definition; there can be only one auto column and it must be defined as a key"</source>
+        <target state="final">"Definição incorreta de tabela. Somente é permitido um único campo auto-incrementado e ele tem que ser definido como chave"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NORMAL_SHUTDOWN" approved="no"><source>"%s (initiated by: %s): Normal shutdown"</source>
+        <target state="final">"%s (%s): 'Shutdown' normal"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_GOT_SIGNAL" approved="no"><source>"%s: Got signal %d. Aborting!\n"</source>
+        <target state="final">"%s: Obteve sinal %d. Abortando!\n"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SHUTDOWN_COMPLETE" approved="no"><source>"%s: Shutdown complete\n"</source>
+        <target state="final">"%s: 'Shutdown' completo\n"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FORCING_CLOSE 08S01" approved="no"><source>"%s: Forcing close of thread %ld  user: '%-.48s'\n"</source>
+        <target state="final">"%s: Forçando finalização da 'thread' %ld - usuário '%-.48s'\n"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_IPSOCK_ERROR 08S01" approved="no"><source>"Can't create IP socket"</source>
+        <target state="final">"Não pode criar o soquete IP"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_SUCH_INDEX 42S12 S1009" approved="no"><source>"Table '%-.192s' has no index like the one used in CREATE INDEX; recreate the table"</source>
+        <target state="final">"Tabela '%-.192s' não possui um índice como o usado em CREATE INDEX. Recrie a tabela"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_FIELD_TERMINATORS 42000 S1009" approved="no"><source>"Field separator argument is not what is expected; check the manual"</source>
+        <target state="final">"Argumento separador de campos não é o esperado. Cheque o manual"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BLOBS_AND_NO_TERMINATED 42000 S1009" approved="no"><source>"You can't use fixed rowlength with BLOBs; please use 'fields terminated by'"</source>
+        <target state="final">"Você não pode usar comprimento de linha fixo com BLOBs. Por favor, use campos com comprimento limitado"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TEXTFILE_NOT_READABLE" approved="no"><source>"The file '%-.128s' must be in the database directory or be readable by all"</source>
+        <target state="final">"Arquivo '%-.128s' tem que estar no diretório do banco de dados ou ter leitura possível para todos"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FILE_EXISTS_ERROR" approved="no"><source>"File '%-.200s' already exists"</source>
+        <target state="final">"Arquivo '%-.200s' já existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOAD_INFO" approved="no"><source>"Records: %ld  Deleted: %ld  Skipped: %ld  Warnings: %ld"</source>
+        <target state="final">"Registros: %ld - Deletados: %ld - Ignorados: %ld - Avisos: %ld"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ALTER_INFO" approved="no"><source>"Records: %ld  Duplicates: %ld"</source>
+        <target state="final">"Registros: %ld - Duplicados: %ld"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_SUB_KEY" approved="no"><source>"Incorrect prefix key; the used key part isn't a string, the used length is longer than the key part, or the storage engine doesn't support unique prefix keys"</source>
+        <target state="final">"Sub parte da chave incorreta. A parte da chave usada não é uma 'string' ou o comprimento usado é maior que parte da chave ou o manipulador de tabelas não suporta sub chaves únicas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_REMOVE_ALL_FIELDS 42000" approved="no"><source>"You can't delete all columns with ALTER TABLE; use DROP TABLE instead"</source>
+        <target state="final">"Você não pode deletar todas as colunas com ALTER TABLE; use DROP TABLE em seu lugar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_DROP_FIELD_OR_KEY 42000" approved="no"><source>"Can't DROP %s %`-.192s; check that it exists"</source>
+        <target state="final">"Não se pode fazer DROP %s %`-.192s. Confira se esta coluna/chave existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INSERT_INFO" approved="no"><source>"Records: %ld  Duplicates: %ld  Warnings: %ld"</source>
+        <target state="final">"Registros: %ld - Duplicados: %ld - Avisos: %ld"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_SUCH_THREAD" approved="no"><source>"Unknown thread id: %lu"</source>
+        <target state="final">"'Id' de 'thread' %lu desconhecido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_KILL_DENIED_ERROR" approved="no"><source>"You are not owner of thread %lld"</source>
+        <target state="final">"Você não é proprietário da 'thread' %lld"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_TABLES_USED" approved="no"><source>"No tables used"</source>
+        <target state="final">"Nenhuma tabela usada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_BIG_SET" approved="no"><source>"Too many strings for column %-.192s and SET"</source>
+        <target state="final">"'Strings' demais para coluna '%-.192s' e SET"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_UNIQUE_LOGFILE" approved="no"><source>"Can't generate a unique log-filename %-.200s.(1-999)\n"</source>
+        <target state="final">"Não pode gerar um nome de arquivo de 'log' único '%-.200s'.(1-999)\n"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_NOT_LOCKED_FOR_WRITE" approved="no"><source>"Table '%-.192s' was locked with a READ lock and can't be updated"</source>
+        <target state="final">"Tabela '%-.192s' foi travada com trava de leitura e não pode ser atualizada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_NOT_LOCKED" approved="no"><source>"Table '%-.192s' was not locked with LOCK TABLES"</source>
+        <target state="final">"Tabela '%-.192s' não foi travada com LOCK TABLES"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_DB_NAME 42000" approved="no"><source>"Incorrect database name '%-.100T'"</source>
+        <target state="final">"Nome de banco de dados '%-.100T' incorreto"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_TABLE_NAME 42000" approved="no"><source>"Incorrect table name '%-.100s'"</source>
+        <target state="final">"Nome de tabela '%-.100s' incorreto"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_BIG_SELECT 42000" approved="no"><source>"The SELECT would examine more than MAX_JOIN_SIZE rows; check your WHERE and use SET SQL_BIG_SELECTS=1 or SET MAX_JOIN_SIZE=# if the SELECT is okay"</source>
+        <target state="final">"O SELECT examinaria registros demais e provavelmente levaria muito tempo. Cheque sua cláusula WHERE e use SET SQL_BIG_SELECTS=1, se o SELECT estiver correto"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_ERROR" approved="no"><source>"Unknown error"</source>
+        <target state="final">"Erro desconhecido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_PROCEDURE 42000" approved="no"><source>"Unknown procedure '%-.192s'"</source>
+        <target state="final">"'Procedure' '%-.192s' desconhecida"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_PARAMCOUNT_TO_PROCEDURE 42000" approved="no"><source>"Incorrect parameter count to procedure '%-.192s'"</source>
+        <target state="final">"Número de parâmetros incorreto para a 'procedure' '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_PARAMETERS_TO_PROCEDURE" approved="no"><source>"Incorrect parameters to procedure '%-.192s'"</source>
+        <target state="final">"Parâmetros incorretos para a 'procedure' '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_TABLE 42S02" approved="no"><source>"Unknown table '%-.192s' in %-.32s"</source>
+        <target state="final">"Tabela '%-.192s' desconhecida em '%-.32s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FIELD_SPECIFIED_TWICE 42000" approved="no"><source>"Column '%-.192s' specified twice"</source>
+        <target state="final">"Coluna '%-.192s' especificada duas vezes"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INVALID_GROUP_FUNC_USE" approved="no"><source>"Invalid use of group function"</source>
+        <target state="final">"Uso inválido de função de agrupamento (GROUP)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNSUPPORTED_EXTENSION 42000" approved="no"><source>"Table '%-.192s' uses an extension that doesn't exist in this MariaDB version"</source>
+        <target state="final">"Tabela '%-.192s' usa uma extensão que não existe nesta versão do MariaDB"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_MUST_HAVE_COLUMNS 42000" approved="no"><source>"A table must have at least 1 column"</source>
+        <target state="final">"Uma tabela tem que ter pelo menos uma (1) coluna"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_RECORD_FILE_FULL" approved="no"><source>"The table '%-.192s' is full"</source>
+        <target state="final">"Tabela '%-.192s' está cheia"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_CHARACTER_SET 42000" approved="no"><source>"Unknown character set: '%-.64s'"</source>
+        <target state="final">"Conjunto de caracteres '%-.64s' desconhecido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_TABLES" approved="no"><source>"Too many tables; MariaDB can only use %d tables in a join"</source>
+        <target state="final">"Tabelas demais. O MariaDB pode usar somente %d tabelas em uma junção (JOIN)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_FIELDS" approved="no"><source>"Too many columns"</source>
+        <target state="final">"Colunas demais"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_BIG_ROWSIZE 42000" approved="no"><source>"Row size too large. The maximum row size for the used table type, not counting BLOBs, is %ld. This includes storage overhead, check the manual. You have to change some columns to TEXT or BLOBs"</source>
+        <target state="final">"Tamanho de linha grande demais. O máximo tamanho de linha, não contando BLOBs, é %ld. Você tem que mudar alguns campos para BLOBs"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_STACK_OVERRUN" approved="no"><source>"Thread stack overrun:  Used: %ld of a %ld stack.  Use 'mariadbd --thread_stack=#' to specify a bigger stack if needed"</source>
+        <target state="final">"Estouro da pilha do 'thread'. Usados %ld de uma pilha de %ld. Use 'mariadbd --thread_stack=#' para especificar uma pilha maior, se necessário"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_OUTER_JOIN 42000" approved="no"><source>"Cross dependency found in OUTER JOIN; examine your ON conditions"</source>
+        <target state="final">"Dependência cruzada encontrada em junção externa (OUTER JOIN); examine as condições utilizadas nas cláusulas 'ON'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_FIND_UDF" approved="no"><source>"Can't load function '%-.192s'"</source>
+        <target state="final">"Não pode carregar a função '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_INITIALIZE_UDF" approved="no"><source>"Can't initialize function '%-.192s'; %-.80s"</source>
+        <target state="final">"Não pode inicializar a função '%-.192s' - '%-.80s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UDF_NO_PATHS" approved="no"><source>"No paths allowed for shared library"</source>
+        <target state="final">"Não há caminhos (paths) permitidos para biblioteca compartilhada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UDF_EXISTS" approved="no"><source>"Function '%-.192s' already exists"</source>
+        <target state="final">"Função '%-.192s' já existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_OPEN_LIBRARY" approved="no"><source>"Can't open shared library '%-.192s' (errno: %d, %-.128s)"</source>
+        <target state="final">"Não pode abrir biblioteca compartilhada '%-.192s' (erro no. %d, %-.128s)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_FIND_DL_ENTRY" approved="no"><source>"Can't find symbol '%-.128s' in library"</source>
+        <target state="final">"Não pode encontrar a função '%-.128s' na biblioteca"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FUNCTION_NOT_DEFINED" approved="no"><source>"Function '%-.192s' is not defined"</source>
+        <target state="final">"Função '%-.192s' não está definida"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_HOST_IS_BLOCKED" approved="no"><source>"Host '%-.64s' is blocked because of many connection errors; unblock with 'mariadb-admin flush-hosts'"</source>
+        <target state="final">"'Host' '%-.64s' está bloqueado devido a muitos erros de conexão. Desbloqueie com 'mariadb-admin flush-hosts'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_HOST_NOT_PRIVILEGED" approved="no"><source>"Host '%-.64s' is not allowed to connect to this MariaDB server"</source>
+        <target state="final">"'Host' '%-.64s' não tem permissão para se conectar com este servidor MariaDB"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_PASSWORD_ANONYMOUS_USER 42000" approved="no"><source>"You are using MariaDB as an anonymous user and anonymous users are not allowed to modify user settings"</source>
+        <target state="final">"Você está usando o MariaDB como usuário anônimo e usuários anônimos não têm permissão para mudar senhas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_PASSWORD_NOT_ALLOWED 42000" approved="no"><source>"You must have privileges to update tables in the mysql database to be able to change passwords for others"</source>
+        <target state="final">"Você deve ter privilégios para atualizar tabelas no banco de dados mysql para ser capaz de mudar a senha de outros"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_PASSWORD_NO_MATCH 28000" approved="no"><source>"Can't find any matching row in the user table"</source>
+        <target state="final">"Não pode encontrar nenhuma linha que combine na tabela usuário (user table)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UPDATE_INFO" approved="no"><source>"Rows matched: %ld  Changed: %ld  Warnings: %ld"</source>
+        <target state="final">"Linhas que combinaram: %ld - Alteradas: %ld - Avisos: %ld"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_CREATE_THREAD" approved="no"><source>"Can't create a new thread (errno %M); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug"</source>
+        <target state="final">"Não pode criar uma nova 'thread' (erro no. %M). Se você não estiver sem memória disponível, você pode consultar o manual sobre um possível 'bug' dependente do sistema operacional"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_VALUE_COUNT_ON_ROW 21S01" approved="no"><source>"Column count doesn't match value count at row %lu"</source>
+        <target state="final">"Contagem de colunas não confere com a contagem de valores na linha %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_REOPEN_TABLE" approved="no"><source>"Can't reopen table: '%-.192s'"</source>
+        <target state="final">"Não pode reabrir a tabela '%-.192s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INVALID_USE_OF_NULL 22004" approved="no"><source>"Invalid use of NULL value"</source>
+        <target state="final">"Uso inválido do valor NULL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_REGEXP_ERROR 42000" approved="no"><source>"Regex error '%s'"</source>
+        <target state="final">"Obteve erro '%s' em regexp"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MIX_OF_GROUP_FUNC_AND_FIELDS 42000" approved="no"><source>"Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause"</source>
+        <target state="final">"Mistura de colunas agrupadas (com MIN(), MAX(), COUNT(), ...) com colunas não agrupadas é ilegal, se não existir uma cláusula de agrupamento (cláusula GROUP BY)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NONEXISTING_GRANT 42000" approved="no"><source>"There is no such grant defined for user '%-.48s' on host '%-.64s'"</source>
+        <target state="final">"Não existe tal permissão (grant) definida para o usuário '%-.48s' no 'host' '%-.64s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLEACCESS_DENIED_ERROR 42000" approved="no"><source>"%-.100T command denied to user '%s'@'%s' for table '%-.192s'"</source>
+        <target state="final">"Comando '%-.100T' negado para o usuário '%s'@'%s' na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_COLUMNACCESS_DENIED_ERROR 42000" approved="no"><source>"%-.32s command denied to user '%s'@'%s' for column '%-.192s' in table '%-.192s'"</source>
+        <target state="final">"Comando '%-.32s' negado para o usuário '%s'@'%s' na coluna '%-.192s', na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ILLEGAL_GRANT_FOR_TABLE 42000" approved="no"><source>"Illegal GRANT/REVOKE command; please consult the manual to see which privileges can be used"</source>
+        <target state="final">"Comando GRANT/REVOKE ilegal. Por favor consulte no manual quais privilégios podem ser usados"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_GRANT_WRONG_HOST_OR_USER 42000" approved="no"><source>"The host or user argument to GRANT is too long"</source>
+        <target state="final">"Argumento de 'host' ou de usuário para o GRANT é longo demais"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_SUCH_TABLE 42S02" approved="no"><source>"Table '%-.192s.%-.192s' doesn't exist"</source>
+        <target state="final">"Tabela '%-.192s.%-.192s' não existe"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NONEXISTING_TABLE_GRANT 42000" approved="no"><source>"There is no such grant defined for user '%-.48s' on host '%-.64s' on table '%-.192s'"</source>
+        <target state="final">"Não existe tal permissão (grant) definido para o usuário '%-.48s' no 'host' '%-.64s', na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NOT_ALLOWED_COMMAND 42000" approved="no"><source>"The used command is not allowed with this MariaDB version"</source>
+        <target state="final">"Comando usado não é permitido para esta versão do MariaDB"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SYNTAX_ERROR 42000" approved="no"><source>"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use"</source>
+        <target state="final">"Você tem um erro de sintaxe no seu SQL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DELAYED_CANT_CHANGE_LOCK" approved="no"><source>"Delayed insert thread couldn't get requested lock for table %-.192s"</source>
+        <target state="final">"'Thread' de inserção retardada (atrasada) pois não conseguiu obter a trava solicitada para tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_DELAYED_THREADS" approved="no"><source>"Too many delayed threads in use"</source>
+        <target state="final">"Excesso de 'threads' retardadas (atrasadas) em uso"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ABORTING_CONNECTION 08S01" approved="no"><source>"Aborted connection %ld to db: '%-.192s' user: '%-.48s' (%-.64s)"</source>
+        <target state="final">"Conexão %ld abortou para o banco de dados '%-.192s' - usuário '%-.48s' (%-.64s)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_PACKET_TOO_LARGE 08S01" approved="no"><source>"Got a packet bigger than 'max_allowed_packet' bytes"</source>
+        <target state="final">"Obteve um pacote maior do que a taxa máxima de pacotes definida (max_allowed_packet)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_READ_ERROR_FROM_PIPE 08S01" approved="no"><source>"Got a read error from the connection pipe"</source>
+        <target state="final">"Obteve um erro de leitura no 'pipe' da conexão"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_FCNTL_ERROR 08S01" approved="no"><source>"Got an error from fcntl()"</source>
+        <target state="final">"Obteve um erro em fcntl()"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_PACKETS_OUT_OF_ORDER 08S01" approved="no"><source>"Got packets out of order"</source>
+        <target state="final">"Obteve pacotes fora de ordem"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_UNCOMPRESS_ERROR 08S01" approved="no"><source>"Couldn't uncompress communication packet"</source>
+        <target state="final">"Não conseguiu descomprimir pacote de comunicação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_READ_ERROR 08S01" approved="no"><source>"Got an error reading communication packets"</source>
+        <target state="final">"Obteve um erro na leitura de pacotes de comunicação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_READ_INTERRUPTED 08S01" approved="no"><source>"Got timeout reading communication packets"</source>
+        <target state="final">"Obteve expiração de tempo (timeout) na leitura de pacotes de comunicação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_ERROR_ON_WRITE 08S01" approved="no"><source>"Got an error writing communication packets"</source>
+        <target state="final">"Obteve um erro na escrita de pacotes de comunicação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NET_WRITE_INTERRUPTED 08S01" approved="no"><source>"Got timeout writing communication packets"</source>
+        <target state="final">"Obteve expiração de tempo ('timeout') na escrita de pacotes de comunicação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_LONG_STRING 42000" approved="no"><source>"Result string is longer than 'max_allowed_packet' bytes"</source>
+        <target state="final">"'String' resultante é mais longa do que 'max_allowed_packet'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_BLOB 42000" approved="no"><source>"Storage engine %s doesn't support BLOB/TEXT columns"</source>
+        <target state="final">"Tipo de tabela usado (%s) não permite colunas BLOB/TEXT"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_AUTO_INCREMENT 42000" approved="no"><source>"Storage engine %s doesn't support AUTO_INCREMENT columns"</source>
+        <target state="final">"Tipo de tabela usado (%s) não permite colunas AUTO_INCREMENT"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DELAYED_INSERT_TABLE_LOCKED" approved="no"><source>"INSERT DELAYED can't be used with table '%-.192s' because it is locked with LOCK TABLES"</source>
+        <target state="final">"INSERT DELAYED não pode ser usado com a tabela '%-.192s', porque ela está travada com LOCK TABLES"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_COLUMN_NAME 42000" approved="no"><source>"Incorrect column name '%-.100s'"</source>
+        <target state="final">"Nome de coluna '%-.100s' incorreto"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_MRG_TABLE" approved="no"><source>"Unable to open underlying table which is differently defined or of non-MyISAM type or doesn't exist"</source>
+        <target state="final">"Todas as tabelas contidas na tabela fundida (MERGE) não estão definidas identicamente"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_UNIQUE 23000" approved="no"><source>"Can't write, because of unique constraint, to table '%-.192s'"</source>
+        <target state="final">"Não pode gravar, devido à restrição UNIQUE, na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BLOB_KEY_WITHOUT_LENGTH 42000" approved="no"><source>"BLOB/TEXT column '%-.192s' used in key specification without a key length"</source>
+        <target state="final">"Coluna BLOB '%-.192s' usada na especificação de chave sem o comprimento da chave"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_PRIMARY_CANT_HAVE_NULL 42000" approved="no"><source>"All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead"</source>
+        <target state="final">"Todas as partes de uma chave primária devem ser não-nulas. Se você precisou usar um valor nulo (NULL) em uma chave, use a cláusula UNIQUE em seu lugar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_ROWS 42000" approved="no"><source>"Result consisted of more than one row"</source>
+        <target state="final">"O resultado consistiu em mais do que uma linha"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_REQUIRES_PRIMARY_KEY 42000" approved="no"><source>"This table type requires a primary key"</source>
+        <target state="final">"Este tipo de tabela requer uma chave primária"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_RAID_COMPILED" approved="no"><source>"This version of MariaDB is not compiled with RAID support"</source>
+        <target state="final">"Esta versão do MariaDB não foi compilada com suporte a RAID"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UPDATE_WITHOUT_KEY_IN_SAFE_MODE" approved="no"><source>"You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column"</source>
+        <target state="final">"Você está usando modo de atualização seguro e tentou atualizar uma tabela sem uma cláusula WHERE que use uma coluna chave"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_KEY_DOES_NOT_EXISTS 42000 S1009" approved="no"><source>"Key '%-.192s' doesn't exist in table '%-.192s'"</source>
+        <target state="final">"Chave '%-.192s' não existe na tabela '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CHECK_NO_SUCH_TABLE 42000" approved="no"><source>"Can't open table"</source>
+        <target state="final">"Não pode abrir a tabela"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CHECK_NOT_IMPLEMENTED 42000" approved="no"><source>"The storage engine for the table doesn't support %s"</source>
+        <target state="final">"O manipulador de tabela não suporta %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_DO_THIS_DURING_AN_TRANSACTION 25000" approved="no"><source>"You are not allowed to execute this command in a transaction"</source>
+        <target state="final">"Não lhe é permitido executar este comando em uma transação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_DURING_COMMIT" approved="no"><source>"Got error %M during COMMIT"</source>
+        <target state="final">"Obteve erro %M durante COMMIT"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_DURING_ROLLBACK" approved="no"><source>"Got error %M during ROLLBACK"</source>
+        <target state="final">"Obteve erro %M durante ROLLBACK"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_DURING_FLUSH_LOGS" approved="no"><source>"Got error %M during FLUSH_LOGS"</source>
+        <target state="final">"Obteve erro %M durante FLUSH_LOGS"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_DURING_CHECKPOINT" approved="no"><source>"Got error %M during CHECKPOINT"</source>
+        <target state="final">"Obteve erro %M durante CHECKPOINT"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NEW_ABORTING_CONNECTION 08S01" approved="no"><source>"Aborted connection %lld to db: '%-.192s' user: '%-.48s' host: '%-.64s' (%-.64s)"</source>
+        <target state="final">"Conexão %lld abortada para banco de dados '%-.192s' - usuário '%-.48s' - 'host' '%-.64s' ('%-.64s')"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FLUSH_MASTER_BINLOG_CLOSED" approved="no"><source>"Binlog closed, cannot RESET MASTER"</source>
+        <target state="final">"Binlog fechado. Não pode fazer RESET MASTER"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INDEX_REBUILD" approved="no"><source>"Failed rebuilding the index of  dumped table '%-.192s'"</source>
+        <target state="final">"Falhou na reconstrução do índice da tabela 'dumped' '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MASTER" approved="no"><source>"Error from master: '%-.64s'"</source>
+        <target state="final">"Erro no 'master' '%-.64s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MASTER_NET_READ 08S01" approved="no"><source>"Net error reading from master"</source>
+        <target state="final">"Erro de rede lendo do 'master'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MASTER_NET_WRITE 08S01" approved="no"><source>"Net error writing to master"</source>
+        <target state="final">"Erro de rede gravando no 'master'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FT_MATCHING_KEY_NOT_FOUND" approved="no"><source>"Can't find FULLTEXT index matching the column list"</source>
+        <target state="final">"Não pode encontrar um índice para o texto todo que combine com a lista de colunas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOCK_OR_ACTIVE_TRANSACTION" approved="no"><source>"Can't execute the given command because you have active locked tables or an active transaction"</source>
+        <target state="final">"Não pode executar o comando dado porque você tem tabelas ativas travadas ou uma transação ativa"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_SYSTEM_VARIABLE" approved="no"><source>"Unknown system variable '%-.*s'"</source>
+        <target state="final">"Variável de sistema '%-.*s' desconhecida"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CRASHED_ON_USAGE" approved="no"><source>"Table '%-.192s' is marked as crashed and should be repaired"</source>
+        <target state="final">"Tabela '%-.192s' está marcada como danificada e deve ser reparada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CRASHED_ON_REPAIR" approved="no"><source>"Table '%-.192s' is marked as crashed and last (automatic?) repair failed"</source>
+        <target state="final">"Tabela '%-.192s' está marcada como danificada e a última reparação (automática?) falhou"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARNING_NOT_COMPLETE_ROLLBACK" approved="no"><source>"Some non-transactional changed tables couldn't be rolled back"</source>
+        <target state="final">"Aviso: Algumas tabelas não-transacionais alteradas não puderam ser reconstituídas (rolled back)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TRANS_CACHE_FULL" approved="no"><source>"Multi-statement transaction required more than 'max_binlog_cache_size' bytes of storage; increase this mariadbd variable and try again"</source>
+        <target state="final">"Transações multi-declaradas (multi-statement transactions) requeriram mais do que o valor limite (max_binlog_cache_size) de bytes para armazenagem. Aumente o valor desta variável do mariadbd e tente novamente"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_MUST_STOP" approved="no"><source>"This operation cannot be performed as you have a running slave '%2$*1$s'; run STOP SLAVE '%2$*1$s' first"</source>
+        <target state="final">"Esta operação não pode ser realizada com um 'slave' '%2$*1$s' em execução. Execute STOP SLAVE '%2$*1$s' primeiro"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_NOT_RUNNING" approved="no"><source>"This operation requires a running slave; configure slave and do START SLAVE"</source>
+        <target state="final">"Esta operação requer um 'slave' em execução. Configure  o 'slave' e execute START SLAVE"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_SLAVE" approved="no"><source>"The server is not configured as slave; fix in config file or with CHANGE MASTER TO"</source>
+        <target state="final">"O servidor não está configurado como 'slave'. Acerte o arquivo de configuração ou use CHANGE MASTER TO"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_THREAD" approved="no"><source>"Could not create slave thread; check system resources"</source>
+        <target state="final">"Não conseguiu criar 'thread' de 'slave'. Verifique os recursos do sistema"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MANY_USER_CONNECTIONS 42000" approved="no"><source>"User %-.64s already has more than 'max_user_connections' active connections"</source>
+        <target state="final">"Usuário '%-.64s' já possui mais que o valor máximo de conexões (max_user_connections) ativas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SET_CONSTANTS_ONLY" approved="no"><source>"You may only use constant expressions in this statement"</source>
+        <target state="final">"Você pode usar apenas expressões constantes com SET"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOCK_WAIT_TIMEOUT" approved="no"><source>"Lock wait timeout exceeded; try restarting transaction"</source>
+        <target state="final">"Tempo de espera (timeout) de travamento excedido. Tente reiniciar a transação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOCK_TABLE_FULL" approved="no"><source>"The total number of locks exceeds the lock table size"</source>
+        <target state="final">"O número total de travamentos excede o tamanho da tabela de travamentos"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_READ_ONLY_TRANSACTION 25000" approved="no"><source>"Update locks cannot be acquired during a READ UNCOMMITTED transaction"</source>
+        <target state="final">"Travamentos de atualização não podem ser obtidos durante uma transação de tipo READ UNCOMMITTED"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DROP_DB_WITH_READ_LOCK" approved="no"><source>"DROP DATABASE not allowed while thread is holding global read lock"</source>
+        <target state="final">"DROP DATABASE não permitido enquanto uma 'thread' está mantendo um travamento global de leitura"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CREATE_DB_WITH_READ_LOCK" approved="no"><source>"CREATE DATABASE not allowed while thread is holding global read lock"</source>
+        <target state="final">"CREATE DATABASE não permitido enquanto uma 'thread' está mantendo um travamento global de leitura"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_ARGUMENTS" approved="no"><source>"Incorrect arguments to %s"</source>
+        <target state="final">"Argumentos errados para %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_PERMISSION_TO_CREATE_USER 42000" approved="no"><source>"'%s'@'%s' is not allowed to create new users"</source>
+        <target state="final">"Não é permitido a '%s'@'%s' criar novos usuários"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNION_TABLES_IN_DIFFERENT_DIR" approved="no"><source>"Incorrect table definition; all MERGE tables must be in the same database"</source>
+        <target state="final">"Definição incorreta da tabela. Todas as tabelas contidas na junção devem estar no mesmo banco de dados"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOCK_DEADLOCK 40001" approved="no"><source>"Deadlock found when trying to get lock; try restarting transaction"</source>
+        <target state="final">"Encontrado um travamento fatal (deadlock) quando tentava obter uma trava. Tente reiniciar a transação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLE_CANT_HANDLE_FT" approved="no"><source>"The storage engine %s doesn't support FULLTEXT indexes"</source>
+        <target state="final">"O tipo de tabela utilizado (%s) não suporta índices de texto completo (fulltext indexes)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANNOT_ADD_FOREIGN" approved="no"><source>"Cannot add foreign key constraint for `%s`"</source>
+        <target state="final">"Não pode acrescentar uma restrição de chave estrangeira para `%s`"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_REFERENCED_ROW 23000" approved="no"><source>"Cannot add or update a child row: a foreign key constraint fails"</source>
+        <target state="final">"Não pode acrescentar uma linha filha: uma restrição de chave estrangeira falhou"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ROW_IS_REFERENCED 23000" approved="no"><source>"Cannot delete or update a parent row: a foreign key constraint fails"</source>
+        <target state="final">"Não pode apagar uma linha pai: uma restrição de chave estrangeira falhou"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CONNECT_TO_MASTER 08S01" approved="no"><source>"Error connecting to master: %-.128s"</source>
+        <target state="final">"Erro conectando com o master: %-.128s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_QUERY_ON_MASTER" approved="no"><source>"Error running query on master: %-.128s"</source>
+        <target state="final">"Erro rodando consulta no master: %-.128s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ERROR_WHEN_EXECUTING_COMMAND" approved="no"><source>"Error when executing command %s: %-.128s"</source>
+        <target state="final">"Erro quando executando comando %s: %-.128s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_USAGE" approved="no"><source>"Incorrect usage of %s and %s"</source>
+        <target state="final">"Uso errado de %s e %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_NUMBER_OF_COLUMNS_IN_SELECT 21000" approved="no"><source>"The used SELECT statements have a different number of columns"</source>
+        <target state="final">"Os comandos SELECT usados têm diferente número de colunas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_UPDATE_WITH_READLOCK" approved="no"><source>"Can't execute the query because you have a conflicting read lock"</source>
+        <target state="final">"Não posso executar a consulta porque você tem um conflito de travamento de leitura"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MIXING_NOT_ALLOWED" approved="no"><source>"Mixing of transactional and non-transactional tables is disabled"</source>
+        <target state="final">"Mistura de tabelas transacional e não-transacional está desabilitada"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_ARGUMENT" approved="no"><source>"Option '%s' used twice in statement"</source>
+        <target state="final">"Opção '%s' usada duas vezes no comando"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_USER_LIMIT_REACHED 42000" approved="no"><source>"User '%-.64s' has exceeded the '%s' resource (current value: %ld)"</source>
+        <target state="final">"Usuário '%-.64s' tem excedido o '%s' recurso (atual valor: %ld)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SPECIFIC_ACCESS_DENIED_ERROR 42000" approved="no"><source>"Access denied; you need (at least one of) the %-.128s privilege(s) for this operation"</source>
+        <target state="final">"Acesso negado. Você precisa o privilégio %-.128s para essa operação"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_LOCAL_VARIABLE" approved="no"><source>"Variable '%-.64s' is a SESSION variable and can't be used with SET GLOBAL"</source>
+        <target state="final">"Variável '%-.64s' é uma SESSION variável e não pode ser usada com SET GLOBAL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_GLOBAL_VARIABLE" approved="no"><source>"Variable '%-.64s' is a GLOBAL variable and should be set with SET GLOBAL"</source>
+        <target state="final">"Variável '%-.64s' é uma GLOBAL variável e deve ser configurada com SET GLOBAL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NO_DEFAULT 42000" approved="no"><source>"Variable '%-.64s' doesn't have a default value"</source>
+        <target state="final">"Variável '%-.64s' não tem um valor padrão"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_VALUE_FOR_VAR 42000" approved="no"><source>"Variable '%-.64s' can't be set to the value of '%-.200T'"</source>
+        <target state="final">"Variável '%-.64s' não pode ser configurada para o valor de '%-.200T'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_TYPE_FOR_VAR 42000" approved="no"><source>"Incorrect argument type to variable '%-.64s'"</source>
+        <target state="final">"Tipo errado de argumento para variável '%-.64s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_VAR_CANT_BE_READ" approved="no"><source>"Variable '%-.64s' can only be set, not read"</source>
+        <target state="final">"Variável '%-.64s' somente pode ser configurada, não lida"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_USE_OPTION_HERE 42000" approved="no"><source>"Incorrect usage/placement of '%s'"</source>
+        <target state="final">"Errado uso/colocação de '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NOT_SUPPORTED_YET 42000" approved="no"><source>"This version of MariaDB doesn't yet support '%s'"</source>
+        <target state="final">"Esta versão de MariaDB não suporta ainda '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MASTER_FATAL_ERROR_READING_BINLOG" approved="no"><source>"Got fatal error %d from master when reading data from binary log: '%-.320s'"</source>
+        <target state="final">"Obteve fatal erro %d: '%-.320s' do master quando lendo dados do binary log"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_TABLE" approved="no"><source>"Slave SQL thread ignored the query because of replicate-*-table rules"</source>
+        <target state="final">"Slave SQL thread ignorado a consulta devido às normas de replicação-*-tabela"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_FK_DEF 42000" approved="no"><source>"Incorrect foreign key definition for '%-.192s': %s"</source>
+        <target state="final">"Definição errada da chave estrangeira para '%-.192s': %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_KEY_REF_DO_NOT_MATCH_TABLE_REF" approved="no"><source>"Key reference and table reference don't match"</source>
+        <target state="final">"Referência da chave e referência da tabela não coincidem"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SUBQUERY_NO_1_ROW 21000" approved="no"><source>"Subquery returns more than 1 row"</source>
+        <target state="final">"Subconsulta retorna mais que 1 registro"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_STMT_HANDLER" approved="no"><source>"Unknown prepared statement handler (%.*s) given to %s"</source>
+        <target state="final">"Desconhecido manipulador de declaração preparado (%.*s) determinado para %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CORRUPT_HELP_DB" approved="no"><source>"Help database is corrupt or does not exist"</source>
+        <target state="final">"Banco de dado de ajuda corrupto ou não existente"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CYCLIC_REFERENCE" approved="no"><source>"Cyclic reference on subqueries"</source>
+        <target state="final">"Referência cíclica em subconsultas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_AUTO_CONVERT" approved="no"><source>"Converting column '%s' from %s to %s"</source>
+        <target state="final">"Convertendo coluna '%s' de %s para %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ILLEGAL_REFERENCE 42S22" approved="no"><source>"Reference '%-.64s' not supported (%s)"</source>
+        <target state="final">"Referência '%-.64s' não suportada (%s)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DERIVED_MUST_HAVE_ALIAS 42000" approved="no"><source>"Every derived table must have its own alias"</source>
+        <target state="final">"Cada tabela derivada deve ter seu próprio alias"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SELECT_REDUCED 01000" approved="no"><source>"Select %u was reduced during optimization"</source>
+        <target state="final">"Select %u foi reduzido durante otimização"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TABLENAME_NOT_ALLOWED_HERE 42000" approved="no"><source>"Table '%-.192s' from one of the SELECTs cannot be used in %-.32s"</source>
+        <target state="final">"Tabela '%-.192s' de um dos SELECTs não pode ser usada em %-.32s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NOT_SUPPORTED_AUTH_MODE 08004" approved="no"><source>"Client does not support authentication protocol requested by server; consider upgrading MariaDB client"</source>
+        <target state="final">"Cliente não suporta o protocolo de autenticação exigido pelo servidor; considere a atualização do cliente MariaDB"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SPATIAL_CANT_HAVE_NULL 42000" approved="no"><source>"All parts of a SPATIAL index must be NOT NULL"</source>
+        <target state="final">"Todas as partes de uma SPATIAL index devem ser NOT NULL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_COLLATION_CHARSET_MISMATCH 42000" approved="no"><source>"COLLATION '%s' is not valid for CHARACTER SET '%s'"</source>
+        <target state="final">"COLLATION '%s' não é válida para CHARACTER SET '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_WAS_RUNNING" approved="no"><source>"Slave is already running"</source>
+        <target state="final">"O slave já está rodando"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_WAS_NOT_RUNNING" approved="no"><source>"Slave already has been stopped"</source>
+        <target state="final">"O slave já está parado"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_BIG_FOR_UNCOMPRESS" approved="no"><source>"Uncompressed data size too large; the maximum size is %d (probably, length of uncompressed data was corrupted)"</source>
+        <target state="final">"Tamanho muito grande dos dados des comprimidos. O máximo tamanho é %d. (provavelmente, o comprimento dos dados descomprimidos está corrupto)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ZLIB_Z_MEM_ERROR" approved="no"><source>"ZLIB: Not enough memory"</source>
+        <target state="final">"ZLIB: Não suficiente memória disponível"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ZLIB_Z_BUF_ERROR" approved="no"><source>"ZLIB: Not enough room in the output buffer (probably, length of uncompressed data was corrupted)"</source>
+        <target state="final">"ZLIB: Não suficiente espaço no buffer emissor (provavelmente, o comprimento dos dados descomprimidos está corrupto)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ZLIB_Z_DATA_ERROR" approved="no"><source>"ZLIB: Input data corrupted"</source>
+        <target state="final">"ZLIB: Dados de entrada está corrupto"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_TOO_FEW_RECORDS 01000" approved="no"><source>"Row %lu doesn't contain data for all columns"</source>
+        <target state="final">"Conta de registro é menor que a conta de coluna na linha %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_TOO_MANY_RECORDS 01000" approved="no"><source>"Row %lu was truncated; it contained more data than there were input columns"</source>
+        <target state="final">"Conta de registro é maior que a conta de coluna na linha %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_NULL_TO_NOTNULL 22004" approved="no"><source>"Column set to default value; NULL supplied to NOT NULL column '%s' at row %lu"</source>
+        <target state="final">"Dado truncado, NULL fornecido para NOT NULL coluna '%s' na linha %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="WARN_DATA_TRUNCATED 01000" approved="no"><source>"Data truncated for column '%s' at row %lu"</source>
+        <target state="final">"Dado truncado para coluna '%s' na linha %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_USING_OTHER_HANDLER" approved="no"><source>"Using storage engine %s for table '%s'"</source>
+        <target state="final">"Usando engine de armazenamento %s para tabela '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_2COLLATIONS" approved="no"><source>"Illegal mix of collations (%s,%s) and (%s,%s) for operation '%s'"</source>
+        <target state="final">"Combinação ilegal de collations (%s,%s) e (%s,%s) para operação '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_REVOKE_GRANTS" approved="no"><source>"Can't revoke all privileges for one or more of the requested users"</source>
+        <target state="final">"Não pode revocar todos os privilégios, grant para um ou mais dos usuários pedidos"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_3COLLATIONS" approved="no"><source>"Illegal mix of collations (%s,%s), (%s,%s), (%s,%s) for operation '%s'"</source>
+        <target state="final">"Ilegal combinação de collations (%s,%s), (%s,%s), (%s,%s) para operação '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_CANT_AGGREGATE_NCOLLATIONS" approved="no"><source>"Illegal mix of collations for operation '%s'"</source>
+        <target state="final">"Ilegal combinação de collations para operação '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_VARIABLE_IS_NOT_STRUCT" approved="no"><source>"Variable '%-.64s' is not a variable component (can't be used as XXXX.variable_name)"</source>
+        <target state="final">"Variável '%-.64s' não é uma variável componente (Não pode ser usada como XXXX.variável_nome)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_COLLATION" approved="no"><source>"Unknown collation: '%-.64s'"</source>
+        <target state="final">"Collation desconhecida: '%-.64s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_SSL_PARAMS" approved="no"><source>"SSL parameters in CHANGE MASTER are ignored because this MariaDB slave was compiled without SSL support; they can be used later if MariaDB slave with SSL is started"</source>
+        <target state="final">"SSL parâmetros em CHANGE MASTER são ignorados porque este escravo MariaDB foi compilado sem o SSL suporte. Os mesmos podem ser usados mais tarde quando o escravo MariaDB com SSL seja iniciado."</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SERVER_IS_IN_SECURE_AUTH_MODE" approved="no"><source>"Server is running in --secure-auth mode, but '%s'@'%s' has a password in the old format; please change the password to the new format"</source>
+        <target state="final">"Servidor está rodando em --secure-auth modo, porêm '%s'@'%s' tem senha no formato antigo; por favor troque a senha para o novo formato"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_FIELD_RESOLVED" approved="no"><source>"Field or reference '%-.192s%s%-.192s%s%-.192s' of SELECT #%d was resolved in SELECT #%d"</source>
+        <target state="final">"Campo ou referência '%-.192s%s%-.192s%s%-.192s' de SELECT #%d foi resolvido em SELECT #%d"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_SLAVE_UNTIL_COND" approved="no"><source>"Incorrect parameter or combination of parameters for START SLAVE UNTIL"</source>
+        <target state="final">"Parâmetro ou combinação de parâmetros errado para START SLAVE UNTIL"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_MISSING_SKIP_SLAVE" approved="no"><source>"It is recommended to use --skip-slave-start when doing step-by-step replication with START SLAVE UNTIL; otherwise, you will get problems if you get an unexpected slave's mariadbd restart"</source>
+        <target state="final">"É recomendado para rodar com --skip-slave-start quando fazendo replicação passo-por-passo com START SLAVE UNTIL, de outra forma você não está seguro em caso de inesperada reinicialição do mariadbd escravo"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNTIL_COND_IGNORED" approved="no"><source>"SQL thread is not to be started so UNTIL options are ignored"</source>
+        <target state="final">"Thread SQL não pode ser inicializado tal que opções UNTIL são ignoradas"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_NAME_FOR_INDEX 42000" approved="no"><source>"Incorrect index name '%-.100s'"</source>
+        <target state="final">"Incorreto nome de índice '%-.100s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WRONG_NAME_FOR_CATALOG 42000" approved="no"><source>"Incorrect catalog name '%-.100s'"</source>
+        <target state="final">"Incorreto nome de catálogo '%-.100s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_QC_RESIZE" approved="no"><source>"Query cache failed to set size %llu; new query cache size is %lu"</source>
+        <target state="final">"Falha em Query cache para configurar tamanho %llu, novo tamanho de query cache é %lu"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_BAD_FT_COLUMN" approved="no"><source>"Column '%-.192s' cannot be part of FULLTEXT index"</source>
+        <target state="final">"Coluna '%-.192s' não pode ser parte de índice FULLTEXT"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_KEY_CACHE" approved="no"><source>"Unknown key cache '%-.100s'"</source>
+        <target state="final">"Key cache desconhecida '%-.100s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_HOSTNAME_WONT_WORK" approved="no"><source>"MariaDB is started in --skip-name-resolve mode; you must restart it without this switch for this grant to work"</source>
+        <target state="final">"MariaDB foi inicializado em modo --skip-name-resolve. Você necesita reincializá-lo sem esta opção para este grant funcionar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_UNKNOWN_STORAGE_ENGINE 42000" approved="no"><source>"Unknown storage engine '%s'"</source>
+        <target state="final">"Motor de tabela desconhecido '%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_WARN_DEPRECATED_SYNTAX" approved="no"><source>"'%s' is deprecated and will be removed in a future release. Please use %s instead"</source>
+        <target state="final">"'%s' é desatualizado. Use '%s' em seu lugar"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_NON_UPDATABLE_TABLE" approved="no"><source>"The target table %-.100s of the %s is not updatable"</source>
+        <target state="final">"A tabela destino %-.100s do %s não é atualizável"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_FEATURE_DISABLED" approved="no"><source>"The '%s' feature is disabled; you need MariaDB built with '%s' to have it working"</source>
+        <target state="final">"O recurso '%s' foi desativado; você necessita MariaDB construído com '%s' para ter isto funcionando"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_OPTION_PREVENTS_STATEMENT" approved="no"><source>"The MariaDB server is running with the %s option so it cannot execute this statement"</source>
+        <target state="final">"O servidor MariaDB está rodando com a opção %s razão pela qual não pode executar esse commando"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUPLICATED_VALUE_IN_TYPE" approved="no"><source>"Column '%-.100s' has duplicated value '%-.64s' in %s"</source>
+        <target state="final">"Coluna '%-.100s' tem valor duplicado '%-.64s' em %s"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TRUNCATED_WRONG_VALUE 22007" approved="no"><source>"Truncated incorrect %-.32T value: '%-.128T'"</source>
+        <target state="final">"Truncado errado %-.32T valor: '%-.128T'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_MUCH_AUTO_TIMESTAMP_COLS" approved="no"><source>"Incorrect table definition; there can be only one TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT or ON UPDATE clause"</source>
+        <target state="final">"Incorreta definição de tabela; Pode ter somente uma coluna TIMESTAMP com CURRENT_TIMESTAMP em DEFAULT ou ON UPDATE cláusula"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_INVALID_ON_UPDATE" approved="no"><source>"Invalid ON UPDATE clause for '%-.192s' column"</source>
+        <target state="final">"Inválida cláusula ON UPDATE para campo '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_ENTRY_WITH_KEY_NAME 23000 S1009" approved="no"><source>"Duplicate entry '%-.64T' for key '%-.192s'"</source>
+        <target state="final">"Entrada '%-.64T' duplicada para a chave '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_LONG_TABLE_COMMENT" approved="no"><source>"Comment for table '%-.64s' is too long (max = %u)"</source>
+        <target state="final">"Comentário para a tabela '%-.64s' é longo demais (max = %u)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_TOO_LONG_FIELD_COMMENT" approved="no"><source>"Comment for field '%-.64s' is too long (max = %u)"</source>
+        <target state="final">"Comentário para o campo '%-.64s' é longo demais (max = %u)"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_ACCESS_DENIED_NO_PASSWORD_ERROR 28000" approved="no"><source>"Access denied for user '%s'@'%s'"</source>
+        <target state="final">"Acesso negado para o usuário '%s'@'%s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DA_INVALID_CONDITION_NUMBER 35000" approved="no"><source>"Invalid condition number"</source>
+        <target state="final">"Número de condição inválido"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_DUP_UNKNOWN_IN_INDEX 23000" approved="no"><source>"Duplicate entry for key '%-.192s'"</source>
+        <target state="final">"Entrada duplicada para a chave '%-.192s'"</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="ER_SLAVE_IGNORED_SHARED_TABLE" approved="no"><source>"Slave SQL thread ignored the '%s' because table is shared"</source>
+        <target state="final">"Slave SQL thread ignorado a consulta devido '%s'"</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
